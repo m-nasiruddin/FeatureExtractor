@@ -1,0 +1,26 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s007">
+
+        <instance id="d004.s007.t001" lemma="application" pos="n">applications</instance>
+        <instance id="d004.s007.t002" lemma="extreme" pos="a">extreme</instance>
+        <instance id="d004.s007.t003" lemma="situation" pos="n">situations</instance>
+        <instance id="d004.s007.t004" lemma="program" pos="n">program</instance>
+        <instance id="d004.s007.t005" lemma="write" pos="v">written</instance>
+        <instance id="d004.s007.t006" lemma="modify" pos="v">modified</instance>
+        <instance id="d004.s007.t007" lemma="known_as" pos="a">known as</instance>
+        <instance id="d004.s007.t008" lemma="directly" pos="r">directly</instance>
+        <instance id="d004.s007.t009" lemma="store" pos="v">storing</instance>
+        <instance id="d004.s007.t010" lemma="numeric" pos="a">numeric</instance>
+        <instance id="d004.s007.t011" lemma="value" pos="n">values</instance>
+        <instance id="d004.s007.t012" lemma="machine_code" pos="n">machine code</instance>
+        <instance id="d004.s007.t013" lemma="instruction" pos="n">instructions</instance>
+        <instance id="d004.s007.t014" lemma="execute" pos="v">executed</instance>
+        <instance id="d004.s007.t015" lemma="memory" pos="n">memory</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

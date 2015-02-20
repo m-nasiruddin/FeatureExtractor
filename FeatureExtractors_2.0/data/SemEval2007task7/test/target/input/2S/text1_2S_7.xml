@@ -1,0 +1,27 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s016">
+
+        <instance id="d001.s016.t001" lemma="study" pos="n">study</instance>
+        <instance id="d001.s016.t002" lemma="show" pos="v">shows</instance>
+        <instance id="d001.s016.t003" lemma="nearly" pos="r">nearly</instance>
+        <instance id="d001.s016.t004" lemma="homeless" pos="a">homeless</instance>
+        <instance id="d001.s016.t005" lemma="population" pos="n">population</instance>
+        <instance id="d001.s016.t006" lemma="make_up" pos="v">made up</instance>
+        <instance id="d001.s016.t007" lemma="woman" pos="n">women</instance>
+        <instance id="d001.s016.t008" lemma="child" pos="n">children</instance>
+        <instance id="d001.s016.t009" lemma="only" pos="r">only</instance>
+        <instance id="d001.s016.t010" lemma="homeless" pos="n">homeless</instance>
+        <instance id="d001.s016.t011" lemma="exhibit" pos="v">exhibits</instance>
+        <instance id="d001.s016.t012" lemma="combination" pos="n">combination</instance>
+        <instance id="d001.s016.t013" lemma="drug" pos="n">drug</instance>
+        <instance id="d001.s016.t014" lemma="alcohol" pos="n">alcohol</instance>
+        <instance id="d001.s016.t015" lemma="mental" pos="a">mental</instance>
+        <instance id="d001.s016.t016" lemma="problem" pos="n">problems</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

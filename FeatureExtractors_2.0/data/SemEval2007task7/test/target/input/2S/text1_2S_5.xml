@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s011">
+
+        <instance id="d001.s011.t001" lemma="interaction" pos="n">interactions</instance>
+        <instance id="d001.s011.t002" lemma="health" pos="n">health</instance>
+        <instance id="d001.s011.t003" lemma="homelessness" pos="n">homelessness</instance>
+        <instance id="d001.s011.t004" lemma="be" pos="v">are</instance>
+        <instance id="d001.s011.t005" lemma="complex" pos="a">complex</instance>
+        <instance id="d001.s011.t006" lemma="defy" pos="v">defying</instance>
+        <instance id="d001.s011.t007" lemma="sweeping" pos="a">sweeping</instance>
+        <instance id="d001.s011.t008" lemma="generalization" pos="n">generalizations</instance>
+        <instance id="d001.s011.t009" lemma="cause" pos="n">cause</instance>
+        <instance id="d001.s011.t010" lemma="effect" pos="n">effect</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

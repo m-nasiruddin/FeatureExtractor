@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s055">
+
+        <instance id="d004.s055.t001" lemma="exist" pos="v">exist</instance>
+        <instance id="d004.s055.t002" lemma="a_lot" pos="r">a lot</instance>
+        <instance id="d004.s055.t003" lemma="approach" pos="n">approaches</instance>
+        <instance id="d004.s055.t004" lemma="task" pos="n">tasks</instance>
+        <instance id="d004.s055.t005" lemma="popular" pos="a">popular</instance>
+        <instance id="d004.s055.t006" lemma="technique" pos="n">technique</instance>
+        <instance id="d004.s055.t007" lemma="be" pos="v">being</instance>
+        <instance id="d004.s055.t008" lemma="Analysis" pos="n">Analysis</instance>
+        <instance id="d004.s055.t009" lemma="Design" pos="n">Design</instance>
+        <instance id="d004.s055.t010" lemma="Architecture" pos="n">Architecture</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

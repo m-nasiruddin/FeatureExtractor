@@ -1,0 +1,13 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s019">
+
+        <instance id="d004.s019.t001" lemma="History" pos="n">History</instance>
+        <instance id="d004.s019.t002" lemma="programming" pos="n">programming</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

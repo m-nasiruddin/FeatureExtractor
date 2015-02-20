@@ -1,0 +1,22 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s029">
+
+        <instance id="d004.s029.t001" lemma="Early" pos="a">Early</instance>
+        <instance id="d004.s029.t002" lemma="program" pos="n">programs</instance>
+        <instance id="d004.s029.t003" lemma="painstakingly" pos="r">painstakingly</instance>
+        <instance id="d004.s029.t004" lemma="craft" pos="v">crafted</instance>
+        <instance id="d004.s029.t005" lemma="use" pos="v">using</instance>
+        <instance id="d004.s029.t006" lemma="instruction" pos="n">instructions</instance>
+        <instance id="d004.s029.t007" lemma="particular" pos="a">particular</instance>
+        <instance id="d004.s029.t008" lemma="machine" pos="n">machine</instance>
+        <instance id="d004.s029.t009" lemma="often" pos="r">often</instance>
+        <instance id="d004.s029.t010" lemma="binary" pos="a">binary</instance>
+        <instance id="d004.s029.t011" lemma="notation" pos="n">notation</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

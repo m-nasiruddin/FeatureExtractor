@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s031">
+
+        <instance id="d001.s031.t001" lemma="mention" pos="v">mention</instance>
+        <instance id="d001.s031.t002" lemma="other" pos="a">other</instance>
+        <instance id="d001.s031.t003" lemma="nonprofit" pos="a">nonprofit</instance>
+        <instance id="d001.s031.t004" lemma="organization" pos="n">organizations</instance>
+        <instance id="d001.s031.t005" lemma="participate" pos="v">participated</instance>
+        <instance id="d001.s031.t006" lemma="march" pos="n">march</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

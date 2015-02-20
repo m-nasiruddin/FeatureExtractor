@@ -1,0 +1,28 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s030">
+
+        <instance id="d003.s030.t001" lemma="long" pos="a">long</instance>
+        <instance id="d003.s030.t002" lemma="stretch" pos="n">stretches</instance>
+        <instance id="d003.s030.t003" lemma="attendant" pos="a">attendant</instance>
+        <instance id="d003.s030.t004" lemma="activity" pos="n">activity</instance>
+        <instance id="d003.s030.t005" lemma="come" pos="v">came</instance>
+        <instance id="d003.s030.t006" lemma="lovely" pos="a">lovely</instance>
+        <instance id="d003.s030.t007" lemma="minute" pos="n">minutes</instance>
+        <instance id="d003.s030.t008" lemma="drifting" pos="n">drifting</instance>
+        <instance id="d003.s030.t009" lemma="watch" pos="v">watching</instance>
+        <instance id="d003.s030.t010" lemma="silver" pos="a">silver</instance>
+        <instance id="d003.s030.t011" lemma="mist" pos="n">mists</instance>
+        <instance id="d003.s030.t012" lemma="rise" pos="v">rise</instance>
+        <instance id="d003.s030.t013" lemma="river" pos="n">river</instance>
+        <instance id="d003.s030.t014" lemma="French" pos="a">French</instance>
+        <instance id="d003.s030.t015" lemma="cow" pos="n">cows</instance>
+        <instance id="d003.s030.t016" lemma="amble" pos="v">amble</instance>
+        <instance id="d003.s030.t017" lemma="field" pos="n">fields</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

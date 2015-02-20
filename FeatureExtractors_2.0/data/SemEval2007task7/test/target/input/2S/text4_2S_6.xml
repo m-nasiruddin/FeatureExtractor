@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s013">
+
+        <instance id="d004.s013.t001" lemma="job" pos="n">job</instance>
+        <instance id="d004.s013.t002" lemma="usually" pos="r">usually</instance>
+        <instance id="d004.s013.t003" lemma="involve" pos="v">involves</instance>
+        <instance id="d004.s013.t004" lemma="Requirement" pos="n">Requirements</instance>
+        <instance id="d004.s013.t005" lemma="analysis" pos="n">analysis</instance>
+        <instance id="d004.s013.t006" lemma="Specification" pos="n">Specification</instance>
+        <instance id="d004.s013.t007" lemma="Software" pos="n">Software</instance>
+        <instance id="d004.s013.t008" lemma="architecture" pos="n">architecture</instance>
+        <instance id="d004.s013.t009" lemma="Compilation" pos="n">Compilation</instance>
+        <instance id="d004.s013.t010" lemma="Software" pos="n">Software</instance>
+        <instance id="d004.s013.t011" lemma="testing" pos="n">testing</instance>
+        <instance id="d004.s013.t012" lemma="Documentation" pos="n">Documentation</instance>
+        <instance id="d004.s013.t013" lemma="Integration" pos="n">Integration</instance>
+        <instance id="d004.s013.t014" lemma="Maintenance" pos="n">Maintenance</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

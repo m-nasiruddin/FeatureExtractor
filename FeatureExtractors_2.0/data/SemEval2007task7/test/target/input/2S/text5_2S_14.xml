@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s030">
+
+        <instance id="d005.s030.t001" lemma="Especially" pos="r">Especially</instance>
+        <instance id="d005.s030.t002" lemma="stand" pos="v">stand</instance>
+        <instance id="d005.s030.t003" lemma="fresco" pos="n">fresco</instance>
+        <instance id="d005.s030.t004" lemma="show" pos="v">shows</instance>
+        <instance id="d005.s030.t005" lemma="baptize" pos="v">baptizing</instance>
+        <instance id="d005.s030.t006" lemma="crowd" pos="n">crowd</instance>
+        <instance id="d005.s030.t007" lemma="people" pos="n">people</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

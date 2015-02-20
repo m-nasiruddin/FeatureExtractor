@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s007">
+
+        <instance id="d001.s007.t001" lemma="note" pos="v">note</instance>
+        <instance id="d001.s007.t002" lemma="homeless" pos="a">homeless</instance>
+        <instance id="d001.s007.t003" lemma="people" pos="n">people</instance>
+        <instance id="d001.s007.t004" lemma="examine" pos="v">examined</instance>
+        <instance id="d001.s007.t005" lemma="have" pos="v">had</instance>
+        <instance id="d001.s007.t006" lemma="multitude" pos="n">multitude</instance>
+        <instance id="d001.s007.t007" lemma="physical" pos="a">physical</instance>
+        <instance id="d001.s007.t008" lemma="disorder" pos="n">disorders</instance>
+        <instance id="d001.s007.t009" lemma="in_addition" pos="r">in addition</instance>
+        <instance id="d001.s007.t010" lemma="psychiatric" pos="a">psychiatric</instance>
+        <instance id="d001.s007.t011" lemma="problem" pos="n">problems</instance>
+        <instance id="d001.s007.t012" lemma="substance_abuse" pos="n">substance abuse</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s002">
+
+        <instance id="d005.s002.t001" lemma="be" pos="v">been</instance>
+        <instance id="d005.s002.t002" lemma="time" pos="n">time</instance>
+        <instance id="d005.s002.t003" lemma="cover" pos="v">covering</instance>
+        <instance id="d005.s002.t004" lemma="wall" pos="n">walls</instance>
+        <instance id="d005.s002.t005" lemma="angel" pos="n">angel</instance>
+        <instance id="d005.s002.t006" lemma="picture" pos="n">pictures</instance>
+        <instance id="d005.s002.t007" lemma="very" pos="r">very</instance>
+        <instance id="d005.s002.t008" lemma="different" pos="a">different</instance>
+        <instance id="d005.s002.t009" lemma="kind" pos="n">kind</instance>
+        <instance id="d005.s002.t010" lemma="painter" pos="n">painter</instance>
+        <instance id="d005.s002.t011" lemma="work" pos="v">working</instance>
+        <instance id="d005.s002.t012" lemma="church" pos="n">church</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

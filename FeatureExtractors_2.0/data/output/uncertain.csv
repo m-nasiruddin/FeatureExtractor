@@ -1,0 +1,4 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"	"A10"	"A11"	"A12"	"A13"	"A14"	"A15"	"A16"	"A17"	"A18"	"A19"	"A20"	"A21"	"A22"	"A23"	"A24"	"A25"	"A26"	"A27"	"A28"	"A29"	"A30"	"A31"	"A32"	"A33"
+"3:00:02::"	"suddenly"	"."	"look"	"∅"	"look_suddenly"	"suddenly_."	"._∅"	"person_look_suddenly"	"look_suddenly_."	"suddenly_._∅"	"._∅_∅"	"NNP"	"VB"	"RB"	"JJ"	"ε"	"ε"	"ε"	"0"	"0"	"0"	"0"	"0"	"0"	"0"	"0"	"person"	"suddenly"	"uncertain"	"0"	"0"	"0"	"0"	
+"3:00:02::"	"seem"	"on"	"himself"	"this"	"himself_seem"	"seem_on"	"on_this"	"person_himself_seem"	"himself_seem_on"	"seem_on_this"	"on_this_score"	"NNP"	"PRP"	"VB"	"JJ"	"IN"	"DT"	"NN"	"0"	"0"	"0"	"0"	"0"	"0"	"0"	"0"	"even"	"himself"	"seem"	"uncertain"	"on"	"this"	"score"	
+"3:00:01::"	"very"	"."	"be"	"∅"	"be_very"	"very_."	"._∅"	"parameter_be_very"	"be_very_."	"very_._∅"	"._∅_∅"	"NN"	"VB"	"RB"	"JJ"	"ε"	"ε"	"ε"	"of"	"piezoelectric"	"sensor"	"in_terms_of"	"the"	"particle"	"parameter"	"be"	"very"	"0"	"0"	"0"	"0"	"0"	"0"	

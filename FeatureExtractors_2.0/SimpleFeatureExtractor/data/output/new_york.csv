@@ -1,0 +1,5 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"
+"1:15:01::"	"memorable"	"date"	"in"	"'s"	"IN"	"POS"	"JJ"	"new_york"	"NN"
+"1:15:00::"	"be_born"	"in"	"location"	"in"	"NNP"	"IN"	"CD"	"new_york"	"NN"
+"1:15:00::"	"live"	"in"	"western"	"in"	"JJ"	"IN"	"NNP"	"new_york"	"NN"
+"1:15:00::"	"and_others"	"in"	"location"	"location"	"NNP"	"NNP"	"NN"	"new_york"	"NN"

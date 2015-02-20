@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s033">
+
+        <instance id="d001.s033.t001" lemma="Choose" pos="v">Choose</instance>
+        <instance id="d001.s033.t002" lemma="business" pos="n">business</instance>
+        <instance id="d001.s033.t003" lemma="executive" pos="n">executives</instance>
+        <instance id="d001.s033.t004" lemma="perhaps" pos="r">perhaps</instance>
+        <instance id="d001.s033.t005" lemma="own" pos="a">own</instance>
+        <instance id="d001.s033.t006" lemma="staff" pos="n">staff</instance>
+        <instance id="d001.s033.t007" lemma="put" pos="v">put</instance>
+        <instance id="d001.s033.t008" lemma="street" pos="n">streets</instance>
+        <instance id="d001.s033.t009" lemma="deprive" pos="v">deprived</instance>
+        <instance id="d001.s033.t010" lemma="one" pos="a">one</instance>
+        <instance id="d001.s033.t011" lemma="month" pos="n">month</instance>
+        <instance id="d001.s033.t012" lemma="home" pos="n">homes</instance>
+        <instance id="d001.s033.t013" lemma="family" pos="n">families</instance>
+        <instance id="d001.s033.t014" lemma="income" pos="n">income</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

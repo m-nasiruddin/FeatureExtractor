@@ -1,0 +1,33 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s005">
+
+        <instance id="d003.s005.t001" lemma="diner" pos="n">diners</instance>
+        <instance id="d003.s005.t002" lemma="table" pos="n">table</instance>
+        <instance id="d003.s005.t003" lemma="simply" pos="r">simply</instance>
+        <instance id="d003.s005.t004" lemma="light" pos="v">lit</instance>
+        <instance id="d003.s005.t005" lemma="scoff" pos="v">scoffed</instance>
+        <instance id="d003.s005.t006" lemma="suggestion" pos="n">suggestion</instance>
+        <instance id="d003.s005.t007" lemma="interrupt" pos="v">interrupting</instance>
+        <instance id="d003.s005.t008" lemma="perfectly" pos="r">perfectly</instance>
+        <instance id="d003.s005.t009" lemma="good" pos="a">good</instance>
+        <instance id="d003.s005.t010" lemma="Saturday" pos="n">Saturday</instance>
+        <instance id="d003.s005.t011" lemma="morning" pos="n">morning</instance>
+        <instance id="d003.s005.t012" lemma="go" pos="v">go</instance>
+        <instance id="d003.s005.t013" lemma="golf" pos="v">golfing</instance>
+        <instance id="d003.s005.t014" lemma="even" pos="r">even</instance>
+        <instance id="d003.s005.t015" lemma="ballooning" pos="n">ballooning</instance>
+        <instance id="d003.s005.t016" lemma="brother" pos="n">brothers</instance>
+        <instance id="d003.s005.t017" lemma="French" pos="a">French</instance>
+        <instance id="d003.s005.t018" lemma="of_course" pos="r">of course</instance>
+        <instance id="d003.s005.t019" lemma="be" pos="v">were</instance>
+        <instance id="d003.s005.t020" lemma="world" pos="n">world</instance>
+        <instance id="d003.s005.t021" lemma="first" pos="a">first</instance>
+        <instance id="d003.s005.t022" lemma="balloonist" pos="n">balloonists</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

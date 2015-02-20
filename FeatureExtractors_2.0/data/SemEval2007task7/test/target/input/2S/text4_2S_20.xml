@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s041">
+
+        <instance id="d004.s041.t001" lemma="bring_about" pos="v">brought about</instance>
+        <instance id="d004.s041.t002" lemma="new" pos="a">newer</instance>
+        <instance id="d004.s041.t003" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s041.t004" lemma="language" pos="n">languages</instance>
+        <instance id="d004.s041.t005" lemma="be" pos="v">are</instance>
+        <instance id="d004.s041.t006" lemma="more" pos="r">more</instance>
+        <instance id="d004.s041.t007" lemma="abstracted" pos="a">abstracted</instance>
+        <instance id="d004.s041.t008" lemma="underlying" pos="a">underlying</instance>
+        <instance id="d004.s041.t009" lemma="hardware" pos="n">hardware</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

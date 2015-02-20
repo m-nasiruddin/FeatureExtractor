@@ -1,0 +1,4 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"	"A10"	"A11"	"A12"	"A13"	"A14"	"A15"	"A16"	"A17"	"A18"	"A19"	"A20"	"A21"	"A22"	"A23"	"A24"	"A25"	"A26"	"A27"	"A28"	"A29"
+"1:04:00::"	"before"	"."	"hour"	"∅"	"hour_before"	"before_."	"._∅"	"48_hour_before"	"hour_before_."	"before_._∅"	"._∅_∅"	"CD"	"NN"	"IN"	"NN"	"ε"	"ε"	"ε"	"0"	"0"	"0"	"0"	"0"	"0"	"0"	"discontinue"	"medication"	"before"	"slaughter"	
+"1:04:00::"	"of"	"."	"day"	"∅"	"day_of"	"of_."	"._∅"	"60_day_of"	"day_of_."	"of_._∅"	"._∅_∅"	"JJ"	"NN"	"IN"	"NN"	"ε"	"ε"	"ε"	"feed"	"to"	"dairy_cow"	"and"	"do"	"not"	"feed"	"within"	"day"	"0"	"0"	
+"2:35:00::"	"are"	"."	"animal"	"∅"	"animal_are"	"are_."	"._∅"	"before_animal_are"	"animal_are_."	"are_._∅"	"._∅_∅"	"IN"	"NN"	"VBP"	"VB"	"ε"	"ε"	"ε"	"0"	"0"	"additive"	"should"	"not"	"be"	"feed"	"hour"	"before"	"are"	"slaughter"	

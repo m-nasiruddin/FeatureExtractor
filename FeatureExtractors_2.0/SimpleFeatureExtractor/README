@@ -1,0 +1,17 @@
+Command to run the script:
+    python BatchFeatureExtractor.py -i [source] -o [destination] -f [features]
+
+Explanation:
+    * [source] = Name of the source directory
+    * [destination] = Name of the destination directory
+    * [features] = [l-3_l+1_t-1_t+2_tw_twt] = name of the features (according to your feature order)
+        [l-N] = Lemma of the N-th word before the target word
+        [l+N] = Lemma of the N-th word after the target word
+        [t-N] = Morphological tag of the N-th word before the target word
+        [t+N] = Morphological tag of the N-th word after the target word
+        [tw] = Target word
+        [twt] = Morphological tag of target word
+
+Example:
+    python BatchFeatureExtractor.py -i semcor/semcor3.0 -o semcor_features -f l-3_l+1_t-1_t+2_tw_twt
+    python3.4 BatchFeatureExtractor.py -i data/semcor3.0/ -o data/output/ -f l-3_l+1_t-1_t+2_tw_twt

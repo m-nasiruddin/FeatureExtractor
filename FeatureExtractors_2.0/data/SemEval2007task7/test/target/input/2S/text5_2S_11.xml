@@ -1,0 +1,26 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s024">
+
+        <instance id="d005.s024.t001" lemma="So" pos="r">So</instance>
+        <instance id="d005.s024.t002" lemma="work" pos="v">worked</instance>
+        <instance id="d005.s024.t003" lemma="light" pos="n">light</instance>
+        <instance id="d005.s024.t004" lemma="shadow" pos="n">shadow</instance>
+        <instance id="d005.s024.t005" lemma="careful" pos="a">careful</instance>
+        <instance id="d005.s024.t006" lemma="drawing" pos="n">drawing</instance>
+        <instance id="d005.s024.t007" lemma="figure" pos="n">figures</instance>
+        <instance id="d005.s024.t008" lemma="draw" pos="v">drew</instance>
+        <instance id="d005.s024.t009" lemma="look" pos="v">looked</instance>
+        <instance id="d005.s024.t010" lemma="instead" pos="r">instead</instance>
+        <instance id="d005.s024.t011" lemma="flat" pos="a">flat</instance>
+        <instance id="d005.s024.t012" lemma="foot" pos="n">feet</instance>
+        <instance id="d005.s024.t013" lemma="plant" pos="v">planted</instance>
+        <instance id="d005.s024.t014" lemma="firmly" pos="r">firmly</instance>
+        <instance id="d005.s024.t015" lemma="ground" pos="n">ground</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

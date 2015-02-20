@@ -1,0 +1,16 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s014">
+
+        <instance id="d005.s014.t001" lemma="Look" pos="v">Look</instance>
+        <instance id="d005.s014.t002" lemma="untidy" pos="a">untidy</instance>
+        <instance id="d005.s014.t003" lemma="hair" pos="n">hair</instance>
+        <instance id="d005.s014.t004" lemma="hole" pos="n">holes</instance>
+        <instance id="d005.s014.t005" lemma="boot" pos="n">boots</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

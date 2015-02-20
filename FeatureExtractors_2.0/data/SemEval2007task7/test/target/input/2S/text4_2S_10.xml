@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s021">
+
+        <instance id="d004.s021.t001" lemma="machine" pos="n">machine</instance>
+        <instance id="d004.s021.t002" lemma="use" pos="v">used</instance>
+        <instance id="d004.s021.t003" lemma="series" pos="n">series</instance>
+        <instance id="d004.s021.t004" lemma="pasteboard" pos="n">pasteboard</instance>
+        <instance id="d004.s021.t005" lemma="card" pos="n">cards</instance>
+        <instance id="d004.s021.t006" lemma="hole" pos="n">holes</instance>
+        <instance id="d004.s021.t007" lemma="punch" pos="v">punched</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,15 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s019">
+
+        <instance id="d002.s019.t001" lemma="management" pos="n">management</instance>
+        <instance id="d002.s019.t002" lemma="use" pos="v">used</instance>
+        <instance id="d002.s019.t003" lemma="merit" pos="n">merit</instance>
+        <instance id="d002.s019.t004" lemma="system" pos="n">system</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

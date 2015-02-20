@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s003">
+
+        <instance id="d002.s003.t001" lemma="offer" pos="v">offered</instance>
+        <instance id="d002.s003.t002" lemma="free" pos="a">free</instance>
+        <instance id="d002.s003.t003" lemma="trip" pos="n">trip</instance>
+        <instance id="d002.s003.t004" lemma="home" pos="n">home</instance>
+        <instance id="d002.s003.t005" lemma="one" pos="a">one</instance>
+        <instance id="d002.s003.t006" lemma="principal" pos="n">principals</instance>
+        <instance id="d002.s003.t007" lemma="tell" pos="v">tells</instance>
+        <instance id="d002.s003.t008" lemma="reader" pos="n">reader</instance>
+        <instance id="d002.s003.t009" lemma="mindful" pos="a">mindful</instance>
+        <instance id="d002.s003.t010" lemma="accept" pos="v">accepting</instance>
+        <instance id="d002.s003.t011" lemma="value" pos="n">value</instance>
+        <instance id="d002.s003.t012" lemma="write" pos="v">writing</instance>
+        <instance id="d002.s003.t013" lemma="decline" pos="v">declined</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

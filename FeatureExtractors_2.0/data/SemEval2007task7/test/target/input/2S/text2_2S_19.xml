@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s039">
+
+        <instance id="d002.s039.t001" lemma="government" pos="n">government</instance>
+        <instance id="d002.s039.t002" lemma="program" pos="n">programs</instance>
+        <instance id="d002.s039.t003" lemma="policy" pos="n">policies</instance>
+        <instance id="d002.s039.t004" lemma="exist" pos="v">exist</instance>
+        <instance id="d002.s039.t005" lemma="line" pos="v">line</instance>
+        <instance id="d002.s039.t006" lemma="pocket" pos="n">pockets</instance>
+        <instance id="d002.s039.t007" lemma="political" pos="a">political</instance>
+        <instance id="d002.s039.t008" lemma="insider" pos="n">insiders</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s025">
+
+        <instance id="d004.s025.t001" lemma="use" pos="v">used</instance>
+        <instance id="d004.s025.t002" lemma="variety" pos="n">variety</instance>
+        <instance id="d004.s025.t003" lemma="machine" pos="n">machines</instance>
+        <instance id="d004.s025.t004" lemma="call" pos="v">called</instance>
+        <instance id="d004.s025.t005" lemma="unit" pos="n">unit</instance>
+        <instance id="d004.s025.t006" lemma="record" pos="n">record</instance>
+        <instance id="d004.s025.t007" lemma="equipment" pos="n">equipment</instance>
+        <instance id="d004.s025.t008" lemma="perform" pos="v">perform</instance>
+        <instance id="d004.s025.t009" lemma="data_processing" pos="n">data processing</instance>
+        <instance id="d004.s025.t010" lemma="task" pos="n">tasks</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

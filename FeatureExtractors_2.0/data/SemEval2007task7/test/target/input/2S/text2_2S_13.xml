@@ -1,0 +1,26 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s027">
+
+        <instance id="d002.s027.t001" lemma="one" pos="a">one</instance>
+        <instance id="d002.s027.t002" lemma="character" pos="n">character</instance>
+        <instance id="d002.s027.t003" lemma="at_least" pos="r">at least</instance>
+        <instance id="d002.s027.t004" lemma="somewhat" pos="r">somewhat</instance>
+        <instance id="d002.s027.t005" lemma="interesting" pos="a">interesting</instance>
+        <instance id="d002.s027.t006" lemma="be" pos="v">was</instance>
+        <instance id="d002.s027.t007" lemma="pediatrician" pos="n">pediatrician</instance>
+        <instance id="d002.s027.t008" lemma="change" pos="v">changed</instance>
+        <instance id="d002.s027.t009" lemma="name" pos="n">name</instance>
+        <instance id="d002.s027.t010" lemma="become" pos="v">became</instance>
+        <instance id="d002.s027.t011" lemma="master" pos="n">master</instance>
+        <instance id="d002.s027.t012" lemma="gambler" pos="n">gambler</instance>
+        <instance id="d002.s027.t013" lemma="author" pos="n">author</instance>
+        <instance id="d002.s027.t014" lemma="book" pos="n">book</instance>
+        <instance id="d002.s027.t015" lemma="blackjack" pos="n">blackjack</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s040">
+
+        <instance id="d003.s040.t001" lemma="balloon" pos="n">balloon</instance>
+        <instance id="d003.s040.t002" lemma="cruise" pos="v">cruising</instance>
+        <instance id="d003.s040.t003" lemma="along" pos="r">along</instance>
+        <instance id="d003.s040.t004" lemma="steady" pos="a">steady</instance>
+        <instance id="d003.s040.t005" lemma="altitude" pos="n">altitude</instance>
+        <instance id="d003.s040.t006" lemma="be" pos="v">is</instance>
+        <instance id="d003.s040.t007" lemma="little" pos="a">little</instance>
+        <instance id="d003.s040.t008" lemma="sense" pos="n">sense</instance>
+        <instance id="d003.s040.t009" lemma="motion" pos="n">motion</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

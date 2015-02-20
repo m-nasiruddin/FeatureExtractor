@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s026">
+
+        <instance id="d005.s026.t001" lemma="building" pos="n">buildings</instance>
+        <instance id="d005.s026.t002" lemma="too" pos="r">too</instance>
+        <instance id="d005.s026.t003" lemma="make" pos="v">made</instance>
+        <instance id="d005.s026.t004" lemma="look_like" pos="v">look like</instance>
+        <instance id="d005.s026.t005" lemma="real" pos="a">real</instance>
+        <instance id="d005.s026.t006" lemma="house" pos="n">houses</instance>
+        <instance id="d005.s026.t007" lemma="lead" pos="v">leading</instance>
+        <instance id="d005.s026.t008" lemma="away" pos="r">away</instance>
+        <instance id="d005.s026.t009" lemma="distance" pos="n">distance</instance>
+        <instance id="d005.s026.t010" lemma="just" pos="r">just</instance>
+        <instance id="d005.s026.t011" lemma="flat" pos="a">flat</instance>
+        <instance id="d005.s026.t012" lemma="picture" pos="n">picture</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

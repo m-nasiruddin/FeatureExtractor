@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s013">
+
+        <instance id="d001.s013.t001" lemma="require" pos="v">require</instance>
+        <instance id="d001.s013.t002" lemma="develop" pos="v">develop</instance>
+        <instance id="d001.s013.t003" lemma="sophisticated" pos="a">sophisticated</instance>
+        <instance id="d001.s013.t004" lemma="understanding" pos="n">understanding</instance>
+        <instance id="d001.s013.t005" lemma="dynamic" pos="n">dynamics</instance>
+        <instance id="d001.s013.t006" lemma="homelessness" pos="n">homelessness</instance>
+        <instance id="d001.s013.t007" lemma="currently" pos="r">currently</instance>
+        <instance id="d001.s013.t008" lemma="possess" pos="v">possess</instance>
+        <instance id="d001.s013.t009" lemma="understanding" pos="n">understanding</instance>
+        <instance id="d001.s013.t010" lemma="develop" pos="v">developed</instance>
+        <instance id="d001.s013.t011" lemma="only" pos="r">only</instance>
+        <instance id="d001.s013.t012" lemma="careful" pos="a">careful</instance>
+        <instance id="d001.s013.t013" lemma="study" pos="n">study</instance>
+        <instance id="d001.s013.t014" lemma="research" pos="n">research</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,5 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"	"A10"	"A11"	"A12"	"A13"	"A14"	"A15"	"A16"	"A17"	"A18"	"A19"	"A20"	"A21"
+"2:32:01::"	"vince"	"."	"∅"	"∅"	"∅_vince"	"vince_."	"._∅"	"∅_∅_vince"	"∅_vince_."	"vince_._∅"	"._∅_∅"	"ε"	"ε"	"NNP"	"VB"	"ε"	"ε"	"ε"	"0"	"0"	"0"	
+"2:32:01::"	"vince"	"again"	"∅"	"."	"∅_vince"	"vince_again"	"again_."	"∅_∅_vince"	"∅_vince_again"	"vince_again_."	"again_._∅"	"ε"	"ε"	"NNP"	"VB"	"RB"	"ε"	"ε"	"again"	"0"	"0"	
+"2:32:01::"	"grosse"	"now"	"∅"	"."	"∅_grosse"	"grosse_now"	"now_."	"∅_∅_grosse"	"∅_grosse_now"	"grosse_now_."	"now_._∅"	"ε"	"ε"	"NNP"	"VB"	"RB"	"ε"	"ε"	"now"	"0"	"0"	
+"2:32:01::"	"he"	","	"∅"	"and"	"∅_he"	"he_,"	",_and"	"∅_∅_he"	"∅_he_,"	"he_,_and"	",_and_say"	"ε"	"ε"	"PRP"	"VB"	"ε"	"CC"	"VB"	"and"	"say"	"all_right"	

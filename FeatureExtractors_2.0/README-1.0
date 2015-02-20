@@ -1,0 +1,101 @@
+GETALP Automatic Feature Extractor toolkit v 0.1a
+
+Parameters:
+    -inp/-input <file or directory>
+        The <file or directory> which contains the text from where the features will be extracted
+        Example: -inp data/semcor3.0/
+    -iff/-input-file-format <semcor3.0 or senseval or semeval or stanford/>
+        Indicate the input file format of the input <file or directory>, the available values are: "semcor3.0" for SemCor3.0 file format,
+        Example: -iff semcor3.0
+    -out/-output <directory>
+        The <directory> where the extracted features will be saved
+        Example: -out data/semcor3.0_features/
+    -off/-output-file-format <csv or arff>
+        Set the output file format of the output <file or directory>
+        Example: -off csv
+    -tok/-tokenizer <>
+        Set the program (e.g. Python function) which will help to tokenize the text, otherwise it will consider a space as a token
+        Example: -tok tokenizer.py
+    -sto/-stopwords <file or directory>
+        Set the <file or directory> of the stopwords, each stopwords should be separated by a new line
+        Example: -sto stopwords.txt
+    -pun/-punctuations <file or directory>
+        Example:
+    -num/-numbers <file or directory>
+
+    -fet/-feature-type <cat/categorical or bin/binary or num/numerical>
+        Example:
+    -fec/-feature-category <bow/bag-of-words or syn/syntactic>
+        Example:
+    -sys/-system <NUSPTSemEval2007 or SRCBWSDSemEval2007 or custom>
+        Set the system for which you want to extract the feature ()
+        Example:
+    -fes/-feature-set <>
+        Example:
+    -pos/-part-of-speech-tags <-N,+N_TW>
+    -loc/-local-collocations <-N,+N_TW>
+    -suw/-surrounding-words <-N,+N_TW>
+    -ngr/-n-grams <N_-N,+N_TW>
+    -skg/-skip-grams <K,N_-N,+N_TW>
+
+
+-cm sent|text|doc: indicates how the input text will be read and disambiguated. The available values are: "sent" one sentence per time, "text" one text element per time, "doc" read the full file
+
+-f xml|oldxml|plain: indicates the input file format. The available values are: "xml" for the SemEval-2013 Task 12 file format (http://www.cs.york.ac.uk/semeval-2013/task12/), "oldxml" old SemEval XML format, "plain" for plain text. The plain text must contain one token for each line. Each line must contains three values separated by TAB: token, pos-tag, lemma. The pos-tag has four possible values: n (noun), v (verb), j (adjective), r (adverb), any other character for other tags. An example is reported in the text folder
+
+
+Different feature sets for WSD systems:
+can be classified into two -
+1. information related to target word
+2. information related to the local contexts
+3. information related to the global contexts
+
+1. local collocations
+2. syntactic/syntactic dependencies/grammatical context
+3. bag-of-words/expanded context
+4. domain information from the lexical resources
+5. position sensative
+6. ngrams
+7. surrounding words/local features
+8. topical features
+9. knowledge-based features
+10. co-occurrence
+11. multi-word expressions
+
+Classifiers:
+1. AdaBoost
+2. Boosting
+3. Kernel PCA
+4. SVM
+5. Decision Tree
+6. Decision List
+7. Content vector model
+8. Byesian Classifier
+9. Neural network
+10. K-nearest neighbors
+11. Perceptron
+12. Inductive Logic Programming
+13. Naive Bayes
+14. Constraint Classification
+15. Vector-based Cosine Similarity
+16. Maximum Entropy
+
+
+
+Explanation:
+    * [input] =
+    * [output] = Name of the output file or directory
+    * [features] = [c-1,-1.c+1,+1.c-2,-2.c+2,+2.c-2,-1.c-1,+1.c+1,+2.c-3,-1.c-2,+1.c-1,+2.c+1,+3_p-3,+3_all]
+                = name of the features (according to the feature order)
+        [c-N-N] = Lemma/word-form (lower-cased) of the N-th local collocation words before the target word
+        [c-N+N] = Lemma/word-form (lower-cased) of the N-th local collocation words before and after the target word
+        [c+N-N] = Lemma/word-form (lower-cased) of the N-th local collocation words after and before the target word
+        [c+N+N] = Lemma/word-form (lower-cased) of the N-th local collocation words after the target word
+        [p-N] = POS-tag of the N-th word before the target word
+        [p+N] = POS-tag of the N-th word after the target word
+        [all] = All single words/uni-grams (lemma/word-form lower-cased; except, stop-words, numbers and punctuation
+                symbols) in the surrounding context
+
+Example:
+    python BatchFeatureExtractor.py -i semcor/semcor3.0 -o semcor_features -f c-1,-1.c+1,+1.c-2,-2.c+2,+2.c-2,-1.c-1,+1.c+1,+2.c-3,-1.c-2,+1.c-1,+2.c+1,+3_p-3,+3_all
+    python2.7 BatchFeatureExtractor.py -i data/semcor3.0/ -o data/output/ -f c-1,-1.c+1,+1.c-2,-2.c+2,+2.c-2,-1.c-1,+1.c+1,+2.c-3,-1.c-2,+1.c-1,+2.c+1,+3_p-3,+3_all

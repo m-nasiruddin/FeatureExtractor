@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s019">
+
+        <instance id="d001.s019.t001" lemma="quote" pos="v">quote</instance>
+        <instance id="d001.s019.t002" lemma="highly" pos="r">highly</instance>
+        <instance id="d001.s019.t003" lemma="regard" pos="v">regarded</instance>
+        <instance id="d001.s019.t004" lemma="director" pos="n">director</instance>
+        <instance id="d001.s019.t005" lemma="privately" pos="r">privately</instance>
+        <instance id="d001.s019.t006" lemma="funded" pos="a">funded</instance>
+        <instance id="d001.s019.t007" lemma="center" pos="n">center</instance>
+        <instance id="d001.s019.t008" lemma="homeless" pos="n">homeless</instance>
+        <instance id="d001.s019.t009" lemma="homeless" pos="a">homeless</instance>
+        <instance id="d001.s019.t010" lemma="sleep" pos="v">sleep</instance>
+        <instance id="d001.s019.t011" lemma="fear" pos="n">fear</instance>
+        <instance id="d001.s019.t012" lemma="rob" pos="v">robbed</instance>
+        <instance id="d001.s019.t013" lemma="murder" pos="v">murdered</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

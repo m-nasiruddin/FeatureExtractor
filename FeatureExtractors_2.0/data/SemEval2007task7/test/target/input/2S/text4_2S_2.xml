@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s005">
+
+        <instance id="d004.s005.t001" lemma="process" pos="n">process</instance>
+        <instance id="d004.s005.t002" lemma="write" pos="v">writing</instance>
+        <instance id="d004.s005.t003" lemma="source_code" pos="n">source code</instance>
+        <instance id="d004.s005.t004" lemma="require" pos="v">requires</instance>
+        <instance id="d004.s005.t005" lemma="expertise" pos="n">expertise</instance>
+        <instance id="d004.s005.t006" lemma="different" pos="a">different</instance>
+        <instance id="d004.s005.t007" lemma="subject" pos="n">subjects</instance>
+        <instance id="d004.s005.t008" lemma="knowledge" pos="n">knowledge</instance>
+        <instance id="d004.s005.t009" lemma="application" pos="n">application</instance>
+        <instance id="d004.s005.t010" lemma="domain" pos="n">domain</instance>
+        <instance id="d004.s005.t011" lemma="algorithm" pos="n">algorithms</instance>
+        <instance id="d004.s005.t012" lemma="implement" pos="v">implement</instance>
+        <instance id="d004.s005.t013" lemma="desired" pos="a">desired</instance>
+        <instance id="d004.s005.t014" lemma="behavior" pos="n">behavior</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s076">
+
+        <instance id="d004.s076.t001" lemma="Language" pos="n">Languages</instance>
+        <instance id="d004.s076.t002" lemma="protect" pos="v">protect</instance>
+        <instance id="d004.s076.t003" lemma="programmer" pos="n">programmer</instance>
+        <instance id="d004.s076.t004" lemma="failure" pos="n">failure</instance>
+        <instance id="d004.s076.t005" lemma="mode" pos="n">modes</instance>
+        <instance id="d004.s076.t006" lemma="come" pos="v">comes</instance>
+        <instance id="d004.s076.t007" lemma="price" pos="n">price</instance>
+        <instance id="d004.s076.t008" lemma="dramatically" pos="r">dramatically</instance>
+        <instance id="d004.s076.t009" lemma="low" pos="a">lower</instance>
+        <instance id="d004.s076.t010" lemma="execution" pos="n">execution</instance>
+        <instance id="d004.s076.t011" lemma="speed" pos="n">speed</instance>
+        <instance id="d004.s076.t012" lemma="resulting" pos="a">resulting</instance>
+        <instance id="d004.s076.t013" lemma="program" pos="n">program</instance>
+    </text>
+
+</corpus>
+

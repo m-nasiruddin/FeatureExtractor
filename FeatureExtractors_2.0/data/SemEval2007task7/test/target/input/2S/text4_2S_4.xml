@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s009">
+
+        <instance id="d004.s009.t001" lemma="ongoing" pos="a">ongoing</instance>
+        <instance id="d004.s009.t002" lemma="debate" pos="n">debate</instance>
+        <instance id="d004.s009.t003" lemma="be" pos="v">is</instance>
+        <instance id="d004.s009.t004" lemma="extent" pos="n">extent</instance>
+        <instance id="d004.s009.t005" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s009.t006" lemma="language" pos="n">language</instance>
+        <instance id="d004.s009.t007" lemma="use" pos="v">used</instance>
+        <instance id="d004.s009.t008" lemma="write" pos="v">writing</instance>
+        <instance id="d004.s009.t009" lemma="program" pos="n">programs</instance>
+        <instance id="d004.s009.t010" lemma="affect" pos="v">affects</instance>
+        <instance id="d004.s009.t011" lemma="form" pos="n">form</instance>
+        <instance id="d004.s009.t012" lemma="final" pos="a">final</instance>
+        <instance id="d004.s009.t013" lemma="program" pos="n">program</instance>
+        <instance id="d004.s009.t014" lemma="take" pos="v">takes</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

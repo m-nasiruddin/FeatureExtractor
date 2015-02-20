@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s001">
+
+        <instance id="d002.s001.t001" lemma="page" pos="n">pages</instance>
+        <instance id="d002.s001.t002" lemma="highly" pos="r">highly</instance>
+        <instance id="d002.s001.t003" lemma="detailed" pos="a">detailed</instance>
+        <instance id="d002.s001.t004" lemma="account" pos="n">account</instance>
+        <instance id="d002.s001.t005" lemma="scandal" pos="n">scandal</instance>
+        <instance id="d002.s001.t006" lemma="begin" pos="v">begins</instance>
+        <instance id="d002.s001.t007" lemma="reassuring" pos="a">reassuring</instance>
+        <instance id="d002.s001.t008" lemma="note" pos="n">note</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

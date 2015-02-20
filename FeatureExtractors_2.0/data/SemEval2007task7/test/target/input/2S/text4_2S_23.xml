@@ -1,0 +1,36 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s047">
+
+        <instance id="d004.s047.t001" lemma="form" pos="n">forms</instance>
+        <instance id="d004.s047.t002" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s047.t003" lemma="be" pos="v">been</instance>
+        <instance id="d004.s047.t004" lemma="increasingly" pos="r">increasingly</instance>
+        <instance id="d004.s047.t005" lemma="subject" pos="a">subject</instance>
+        <instance id="d004.s047.t006" lemma="import" pos="v">importing</instance>
+        <instance id="d004.s047.t007" lemma="software" pos="n">software</instance>
+        <instance id="d004.s047.t008" lemma="service" pos="n">services</instance>
+        <instance id="d004.s047.t009" lemma="other" pos="a">other</instance>
+        <instance id="d004.s047.t010" lemma="country" pos="n">countries</instance>
+        <instance id="d004.s047.t011" lemma="usually" pos="r">usually</instance>
+        <instance id="d004.s047.t012" lemma="low" pos="a">lower</instance>
+        <instance id="d004.s047.t013" lemma="wage" pos="n">wage</instance>
+        <instance id="d004.s047.t014" lemma="make" pos="v">making</instance>
+        <instance id="d004.s047.t015" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s047.t016" lemma="career" pos="n">career</instance>
+        <instance id="d004.s047.t017" lemma="decision" pos="n">decisions</instance>
+        <instance id="d004.s047.t018" lemma="developed" pos="a">developed</instance>
+        <instance id="d004.s047.t019" lemma="country" pos="n">countries</instance>
+        <instance id="d004.s047.t020" lemma="complicated" pos="a">complicated</instance>
+        <instance id="d004.s047.t021" lemma="increase" pos="v">increasing</instance>
+        <instance id="d004.s047.t022" lemma="economic" pos="a">economic</instance>
+        <instance id="d004.s047.t023" lemma="opportunity" pos="n">opportunities</instance>
+        <instance id="d004.s047.t024" lemma="developed" pos="a">developed</instance>
+        <instance id="d004.s047.t025" lemma="area" pos="n">areas</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

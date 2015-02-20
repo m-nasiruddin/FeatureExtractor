@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s016">
+
+        <instance id="d003.s016.t001" lemma="first" pos="a">first</instance>
+        <instance id="d003.s016.t002" lemma="thing" pos="n">thing</instance>
+        <instance id="d003.s016.t003" lemma="tell" pos="v">tell</instance>
+        <instance id="d003.s016.t004" lemma="ballooning" pos="n">ballooning</instance>
+        <instance id="d003.s016.t005" lemma="be" pos="v">is</instance>
+        <instance id="d003.s016.t006" lemma="require" pos="v">requires</instance>
+        <instance id="d003.s016.t007" lemma="zip" pos="n">zip</instance>
+        <instance id="d003.s016.t008" lemma="way" pos="n">way</instance>
+        <instance id="d003.s016.t009" lemma="athletic" pos="a">athletic</instance>
+        <instance id="d003.s016.t010" lemma="prowess" pos="n">prowess</instance>
+        <instance id="d003.s016.t011" lemma="even" pos="r">even</instance>
+        <instance id="d003.s016.t012" lemma="measure" pos="n">measure</instance>
+        <instance id="d003.s016.t013" lemma="derring-do" pos="n">derring-do</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

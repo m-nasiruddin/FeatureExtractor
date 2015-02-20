@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s049">
+
+        <instance id="d004.s049.t001" lemma="trend" pos="n">trend</instance>
+        <instance id="d004.s049.t002" lemma="argue" pos="v">argued</instance>
+        <instance id="d004.s049.t003" lemma="rich" pos="a">richest</instance>
+        <instance id="d004.s049.t004" lemma="person" pos="n">persons</instance>
+        <instance id="d004.s049.t005" lemma="globe" pos="n">globe</instance>
+        <instance id="d004.s049.t006" lemma="be" pos="v">are</instance>
+        <instance id="d004.s049.t007" lemma="programmer" pos="n">programmers</instance>
+        <instance id="d004.s049.t008" lemma="profession" pos="n">profession</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

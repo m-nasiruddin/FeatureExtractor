@@ -1,0 +1,14 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s034">
+
+        <instance id="d003.s034.t001" lemma="come_down" pos="v">coming down</instance>
+        <instance id="d003.s034.t002" lemma="straight" pos="r">straight</instance>
+        <instance id="d003.s034.t003" lemma="canal" pos="n">canal</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

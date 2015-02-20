@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s067">
+
+        <instance id="d004.s067.t001" lemma="Scientific" pos="a">Scientific</instance>
+        <instance id="d004.s067.t002" lemma="application" pos="n">applications</instance>
+        <instance id="d004.s067.t003" lemma="often" pos="r">often</instance>
+        <instance id="d004.s067.t004" lemma="implement" pos="v">implemented</instance>
+        <instance id="d004.s067.t005" lemma="very" pos="r">very</instance>
+        <instance id="d004.s067.t006" lemma="efficient" pos="a">efficient</instance>
+        <instance id="d004.s067.t007" lemma="optimization" pos="n">optimization</instance>
+        <instance id="d004.s067.t008" lemma="use" pos="v">using</instance>
+        <instance id="d004.s067.t009" lemma="Compiler" pos="n">Compilers</instance>
+        <instance id="d004.s067.t010" lemma="be" pos="v">is</instance>
+        <instance id="d004.s067.t011" lemma="possible" pos="a">possible</instance>
+        <instance id="d004.s067.t012" lemma="arithmetic" pos="n">arithmetic</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

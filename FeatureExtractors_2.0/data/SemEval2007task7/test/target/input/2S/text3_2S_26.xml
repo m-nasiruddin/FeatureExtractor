@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s054">
+
+        <instance id="d003.s054.t001" lemma="whole" pos="a">whole</instance>
+        <instance id="d003.s054.t002" lemma="morning" pos="n">morning</instance>
+        <instance id="d003.s054.t003" lemma="ballooning" pos="n">ballooning</instance>
+        <instance id="d003.s054.t004" lemma="ground" pos="n">ground</instance>
+        <instance id="d003.s054.t005" lemma="barely" pos="r">barely</instance>
+        <instance id="d003.s054.t006" lemma="minute" pos="n">minutes</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

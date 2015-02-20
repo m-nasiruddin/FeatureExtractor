@@ -1,0 +1,26 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s006">
+
+        <instance id="d005.s006.t001" lemma="send" pos="v">sending</instance>
+        <instance id="d005.s006.t002" lemma="errand" pos="n">errand</instance>
+        <instance id="d005.s006.t003" lemma="forget" pos="v">forget</instance>
+        <instance id="d005.s006.t004" lemma="before" pos="r">before</instance>
+        <instance id="d005.s006.t005" lemma="go" pos="v">gone</instance>
+        <instance id="d005.s006.t006" lemma="hundred" pos="n">hundred</instance>
+        <instance id="d005.s006.t007" lemma="yard" pos="n">yards</instance>
+        <instance id="d005.s006.t008" lemma="be" pos="v">was</instance>
+        <instance id="d005.s006.t009" lemma="so" pos="r">so</instance>
+        <instance id="d005.s006.t010" lemma="careless" pos="a">careless</instance>
+        <instance id="d005.s006.t011" lemma="untidy" pos="a">untidy</instance>
+        <instance id="d005.s006.t012" lemma="enough" pos="r">enough</instance>
+        <instance id="d005.s006.t013" lemma="make" pos="v">make</instance>
+        <instance id="d005.s006.t014" lemma="lose" pos="v">lose</instance>
+        <instance id="d005.s006.t015" lemma="patience" pos="n">patience</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

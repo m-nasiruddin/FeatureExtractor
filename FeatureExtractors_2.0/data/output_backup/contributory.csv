@@ -1,0 +1,3 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"	"A10"	"A11"	"A12"	"A13"	"A14"	"A15"	"A16"	"A17"	"A18"	"A19"	"A20"	"A21"	"A22"	"A23"	"A24"	"A25"	"A26"	"A27"	"A28"	"A29"
+"5:00:00:causative:00"	"between"	"or"	"carefully"	"non"	"carefully_between"	"between_or"	"or_non"	"choose_carefully_between"	"carefully_between_or"	"between_or_non"	"or_non_contributory"	"VB"	"RB"	"IN"	"JJ"	"CC"	"JJ"	"JJ"	"0"	"0"	"0"	"choose"	"between"	"contributory"	"or"	"non"	"contributory"	"pension"	"plan"	
+"5:00:00:causative:00"	"non"	"pension"	"or"	"plan"	"or_non"	"non_pension"	"pension_plan"	"contributory_or_non"	"or_non_pension"	"non_pension_plan"	"pension_plan_."	"JJ"	"CC"	"JJ"	"JJ"	"NN"	"NN"	"ε"	"between"	"contributory"	"or"	"non"	"pension"	"plan"	"0"	"0"	"0"	"0"	"0"	

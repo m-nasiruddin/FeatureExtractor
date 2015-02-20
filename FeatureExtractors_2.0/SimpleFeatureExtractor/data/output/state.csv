@@ -1,0 +1,8 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"
+"1:15:01::"	"county"	"in"	"the"	"with"	"DT"	"IN"	"DT"	"state"	"NN"
+"1:14:01::"	"X"	"X"	"person"	"gop"	"NNP"	"NN"	"NN"	"state"	"NN"
+"1:15:01::"	"pick_up"	"for"	"a"	"rally"	"DT"	"NN"	"TO"	"state"	"NN"
+"1:14:00::"	"face"	"be"	"a"	"law"	"DT"	"NN"	"WDT"	"state"	"NN"
+"1:14:00::"	"go"	"to"	"the"	"court"	"DT"	"NN"	"IN"	"state"	"NN"
+"1:14:00::"	"and"	"expend"	"as"	"funds"	"IN"	"NN"	"X"	"state"	"NN"
+"2:32:01::"	"home_rule"	"charter"	"petitions"	"that"	"NNS"	"IN"	"PRP"	"states"	"VB"

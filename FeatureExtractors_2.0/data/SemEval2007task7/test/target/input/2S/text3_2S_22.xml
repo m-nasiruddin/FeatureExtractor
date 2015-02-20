@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s046">
+
+        <instance id="d003.s046.t001" lemma="scuttle" pos="v">scuttled</instance>
+        <instance id="d003.s046.t002" lemma="along" pos="r">along</instance>
+        <instance id="d003.s046.t003" lemma="foot" pos="n">feet</instance>
+        <instance id="d003.s046.t004" lemma="plunge" pos="v">plunged</instance>
+        <instance id="d003.s046.t005" lemma="drink" pos="n">drink</instance>
+        <instance id="d003.s046.t006" lemma="again" pos="r">again</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,15 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s022">
+
+        <instance id="d003.s022.t001" lemma="refer" pos="v">referring</instance>
+        <instance id="d003.s022.t002" lemma="traditional" pos="a">traditional</instance>
+        <instance id="d003.s022.t003" lemma="champagne" pos="n">champagne</instance>
+        <instance id="d003.s022.t004" lemma="toast" pos="n">toast</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

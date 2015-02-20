@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s039">
+
+        <instance id="d004.s039.t001" lemma="Text" pos="n">Text</instance>
+        <instance id="d004.s039.t002" lemma="editor" pos="n">editors</instance>
+        <instance id="d004.s039.t003" lemma="develop" pos="v">developed</instance>
+        <instance id="d004.s039.t004" lemma="allow" pos="v">allowed</instance>
+        <instance id="d004.s039.t005" lemma="change" pos="n">changes</instance>
+        <instance id="d004.s039.t006" lemma="correction" pos="n">corrections</instance>
+        <instance id="d004.s039.t007" lemma="make" pos="v">made</instance>
+        <instance id="d004.s039.t008" lemma="easily" pos="r">easily</instance>
+        <instance id="d004.s039.t009" lemma="punch_card" pos="n">punch cards</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,30 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s008">
+
+        <instance id="d005.s008.t001" lemma="say" pos="v">said</instance>
+        <instance id="d005.s008.t002" lemma="even" pos="r">even</instance>
+        <instance id="d005.s008.t003" lemma="now" pos="r">now</instance>
+        <instance id="d005.s008.t004" lemma="little" pos="a">little</instance>
+        <instance id="d005.s008.t005" lemma="town" pos="n">town</instance>
+        <instance id="d005.s008.t006" lemma="eighteen" pos="a">eighteen</instance>
+        <instance id="d005.s008.t007" lemma="mile" pos="n">miles</instance>
+        <instance id="d005.s008.t008" lemma="bear" pos="v">born</instance>
+        <instance id="d005.s008.t009" lemma="be" pos="v">are</instance>
+        <instance id="d005.s008.t010" lemma="still" pos="r">still</instance>
+        <instance id="d005.s008.t011" lemma="wonderfully" pos="r">wonderfully</instance>
+        <instance id="d005.s008.t012" lemma="good" pos="a">good</instance>
+        <instance id="d005.s008.t013" lemma="figure" pos="n">figures</instance>
+        <instance id="d005.s008.t014" lemma="see" pos="v">seen</instance>
+        <instance id="d005.s008.t015" lemma="draw" pos="v">drawn</instance>
+        <instance id="d005.s008.t016" lemma="be" pos="v">was</instance>
+        <instance id="d005.s008.t017" lemma="quite" pos="r">quite</instance>
+        <instance id="d005.s008.t018" lemma="little" pos="a">little</instance>
+        <instance id="d005.s008.t019" lemma="boy" pos="n">boy</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

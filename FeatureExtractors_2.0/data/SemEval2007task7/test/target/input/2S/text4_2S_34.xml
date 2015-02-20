@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s069">
+
+        <instance id="d004.s069.t001" lemma="excel" pos="v">excel</instance>
+        <instance id="d004.s069.t002" lemma="application" pos="n">applications</instance>
+        <instance id="d004.s069.t003" lemma="often" pos="r">often</instance>
+        <instance id="d004.s069.t004" lemma="deliver" pos="v">delivered</instance>
+        <instance id="d004.s069.t005" lemma="internet" pos="n">internet</instance>
+        <instance id="d004.s069.t006" lemma="corporate" pos="a">corporate</instance>
+        <instance id="d004.s069.t007" lemma="intranet" pos="n">intranets</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

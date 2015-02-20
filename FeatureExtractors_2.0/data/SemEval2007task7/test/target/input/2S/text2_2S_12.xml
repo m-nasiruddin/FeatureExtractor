@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s025">
+
+        <instance id="d002.s025.t001" lemma="scammer" pos="n">scammers</instance>
+        <instance id="d002.s025.t002" lemma="be" pos="v">were</instance>
+        <instance id="d002.s025.t003" lemma="lowlife" pos="n">low lifes</instance>
+        <instance id="d002.s025.t004" lemma="conspicuous" pos="a">conspicuous</instance>
+        <instance id="d002.s025.t005" lemma="consumer" pos="n">consumers</instance>
+        <instance id="d002.s025.t006" lemma="want" pos="v">wanted</instance>
+        <instance id="d002.s025.t007" lemma="big" pos="a">big</instance>
+        <instance id="d002.s025.t008" lemma="house" pos="n">houses</instance>
+        <instance id="d002.s025.t009" lemma="car" pos="n">cars</instance>
+        <instance id="d002.s025.t010" lemma="beautiful" pos="a">beautiful</instance>
+        <instance id="d002.s025.t011" lemma="woman" pos="n">women</instance>
+        <instance id="d002.s025.t012" lemma="expensive" pos="a">expensive</instance>
+        <instance id="d002.s025.t013" lemma="clothes" pos="n">clothes</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

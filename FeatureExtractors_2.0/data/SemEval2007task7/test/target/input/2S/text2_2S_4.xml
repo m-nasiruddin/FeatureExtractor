@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s009">
+
+        <instance id="d002.s009.t001" lemma="realize" pos="v">realized</instance>
+        <instance id="d002.s009.t002" lemma="Italian" pos="a">Italian</instance>
+        <instance id="d002.s009.t003" lemma="ancestry" pos="n">ancestry</instance>
+        <instance id="d002.s009.t004" lemma="still" pos="r">still</instance>
+        <instance id="d002.s009.t005" lemma="qualify" pos="v">qualify</instance>
+        <instance id="d002.s009.t006" lemma="minority" pos="n">minority</instance>
+        <instance id="d002.s009.t007" lemma="person" pos="n">person</instance>
+        <instance id="d002.s009.t008" lemma="bear" pos="v">born</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

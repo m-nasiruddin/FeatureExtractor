@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s018">
+
+        <instance id="d003.s018.t001" lemma="also" pos="r">also</instance>
+        <instance id="d003.s018.t002" lemma="tell" pos="v">tell</instance>
+        <instance id="d003.s018.t003" lemma="even" pos="r">even</instance>
+        <instance id="d003.s018.t004" lemma="hate" pos="v">hate</instance>
+        <instance id="d003.s018.t005" lemma="heights" pos="n">heights</instance>
+        <instance id="d003.s018.t006" lemma="still" pos="r">still</instance>
+        <instance id="d003.s018.t007" lemma="balloon" pos="v">balloon</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,16 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s037">
+
+        <instance id="d004.s037.t001" lemma="See" pos="v">See</instance>
+        <instance id="d004.s037.t002" lemma="computer" pos="n">computer</instance>
+        <instance id="d004.s037.t003" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s037.t004" lemma="punch_card" pos="n">punch card</instance>
+        <instance id="d004.s037.t005" lemma="era" pos="n">era</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

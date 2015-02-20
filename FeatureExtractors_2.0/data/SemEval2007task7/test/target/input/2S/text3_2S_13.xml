@@ -1,0 +1,29 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s028">
+
+        <instance id="d003.s028.t001" lemma="between" pos="r">between</instance>
+        <instance id="d003.s028.t002" lemma="come" pos="v">came</instance>
+        <instance id="d003.s028.t003" lemma="lots" pos="n">lots</instance>
+        <instance id="d003.s028.t004" lemma="coffee" pos="n">coffee</instance>
+        <instance id="d003.s028.t005" lemma="drinking" pos="n">drinking</instance>
+        <instance id="d003.s028.t006" lemma="watch" pos="v">watching</instance>
+        <instance id="d003.s028.t007" lemma="balloon" pos="n">balloons</instance>
+        <instance id="d003.s028.t008" lemma="inflate" pos="v">inflate</instance>
+        <instance id="d003.s028.t009" lemma="lots" pos="n">lots</instance>
+        <instance id="d003.s028.t010" lemma="standing" pos="n">standing</instance>
+        <instance id="d003.s028.t011" lemma="deciding" pos="n">deciding</instance>
+        <instance id="d003.s028.t012" lemma="fly" pos="v">fly</instance>
+        <instance id="d003.s028.t013" lemma="balloon" pos="n">balloon</instance>
+        <instance id="d003.s028.t014" lemma="order" pos="n">order</instance>
+        <instance id="d003.s028.t015" lemma="basket" pos="n">baskets</instance>
+        <instance id="d003.s028.t016" lemma="hold" pos="v">hold</instance>
+        <instance id="d003.s028.t017" lemma="four" pos="a">four</instance>
+        <instance id="d003.s028.t018" lemma="passenger" pos="n">passengers</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,26 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s050">
+
+        <instance id="d003.s050.t001" lemma="Back" pos="r">Back</instance>
+        <instance id="d003.s050.t002" lemma="car" pos="n">car</instance>
+        <instance id="d003.s050.t003" lemma="drive" pos="v">drove</instance>
+        <instance id="d003.s050.t004" lemma="get" pos="v">got</instance>
+        <instance id="d003.s050.t005" lemma="stick" pos="v">stuck</instance>
+        <instance id="d003.s050.t006" lemma="ditch" pos="n">ditch</instance>
+        <instance id="d003.s050.t007" lemma="enlist" pos="v">enlisted</instance>
+        <instance id="d003.s050.t008" lemma="aid" pos="n">aid</instance>
+        <instance id="d003.s050.t009" lemma="local" pos="a">local</instance>
+        <instance id="d003.s050.t010" lemma="farmer" pos="n">farmer</instance>
+        <instance id="d003.s050.t011" lemma="get_out" pos="v">get out</instance>
+        <instance id="d003.s050.t012" lemma="trailer" pos="n">trailer</instance>
+        <instance id="d003.s050.t013" lemma="hitch" pos="n">hitch</instance>
+        <instance id="d003.s050.t014" lemma="pull" pos="v">pull</instance>
+        <instance id="d003.s050.t015" lemma="ditch" pos="n">ditch</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

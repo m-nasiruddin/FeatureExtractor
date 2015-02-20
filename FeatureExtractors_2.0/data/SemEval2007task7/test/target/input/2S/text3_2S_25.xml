@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s052">
+
+        <instance id="d003.s052.t001" lemma="be" pos="v">was</instance>
+        <instance id="d003.s052.t002" lemma="exercise" pos="n">exercise</instance>
+        <instance id="d003.s052.t003" lemma="have" pos="v">had</instance>
+        <instance id="d003.s052.t004" lemma="morning" pos="n">morning</instance>
+        <instance id="d003.s052.t005" lemma="follow" pos="v">followed</instance>
+        <instance id="d003.s052.t006" lemma="driving" pos="n">driving</instance>
+        <instance id="d003.s052.t007" lemma="immediately" pos="r">immediately</instance>
+        <instance id="d003.s052.t008" lemma="near" pos="a">nearest</instance>
+        <instance id="d003.s052.t009" lemma="watering_hole" pos="n">watering hole</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s012">
+
+        <instance id="d003.s012.t001" lemma="condom" pos="n">condom</instance>
+        <instance id="d003.s012.t002" lemma="balloon" pos="n">balloon</instance>
+        <instance id="d003.s012.t003" lemma="deny" pos="v">denied</instance>
+        <instance id="d003.s012.t004" lemma="official" pos="a">official</instance>
+        <instance id="d003.s012.t005" lemma="entry" pos="n">entry</instance>
+        <instance id="d003.s012.t006" lemma="status" pos="n">status</instance>
+        <instance id="d003.s012.t007" lemma="year" pos="n">year</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

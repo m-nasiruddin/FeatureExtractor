@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s023">
+
+        <instance id="d002.s023.t001" lemma="scam" pos="n">scams</instance>
+        <instance id="d002.s023.t002" lemma="show" pos="v">show</instance>
+        <instance id="d002.s023.t003" lemma="ingenuity" pos="n">ingenuity</instance>
+        <instance id="d002.s023.t004" lemma="Auditor" pos="n">Auditors</instance>
+        <instance id="d002.s023.t005" lemma="find" pos="v">found</instance>
+        <instance id="d002.s023.t006" lemma="first" pos="a">first</instance>
+        <instance id="d002.s023.t007" lemma="day" pos="n">day</instance>
+        <instance id="d002.s023.t008" lemma="job" pos="n">job</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s010">
+
+        <instance id="d003.s010.t001" lemma="past" pos="a">past</instance>
+        <instance id="d003.s010.t002" lemma="year" pos="n">years</instance>
+        <instance id="d003.s010.t003" lemma="number" pos="n">number</instance>
+        <instance id="d003.s010.t004" lemma="balloonist" pos="n">balloonists</instance>
+        <instance id="d003.s010.t005" lemma="pass" pos="v">passed</instance>
+        <instance id="d003.s010.t006" lemma="lighter-than-air" pos="a">lighter-than-air</instance>
+        <instance id="d003.s010.t007" lemma="test" pos="n">test</instance>
+        <instance id="d003.s010.t008" lemma="swell" pos="v">swelled</instance>
+        <instance id="d003.s010.t009" lemma="couple" pos="n">couple</instance>
+        <instance id="d003.s010.t010" lemma="thousand" pos="n">thousand</instance>
+        <instance id="d003.s010.t011" lemma="estimate" pos="n">estimates</instance>
+        <instance id="d003.s010.t012" lemma="run" pos="v">running</instance>
+        <instance id="d003.s010.t013" lemma="high" pos="a">high</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

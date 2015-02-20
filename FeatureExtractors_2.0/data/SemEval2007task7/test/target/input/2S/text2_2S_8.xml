@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s017">
+
+        <instance id="d002.s017.t001" lemma="necessary" pos="a">necessary</instance>
+        <instance id="d002.s017.t002" lemma="seek" pos="v">sought</instance>
+        <instance id="d002.s017.t003" lemma="receive" pos="v">received</instance>
+        <instance id="d002.s017.t004" lemma="assistance" pos="n">assistance</instance>
+        <instance id="d002.s017.t005" lemma="organized" pos="a">organized</instance>
+        <instance id="d002.s017.t006" lemma="crime" pos="n">crime</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

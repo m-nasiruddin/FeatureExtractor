@@ -1,0 +1,22 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s074">
+
+        <instance id="d004.s074.t001" lemma="buffer" pos="n">buffer</instance>
+        <instance id="d004.s074.t002" lemma="damage" pos="v">damage</instance>
+        <instance id="d004.s074.t003" lemma="adjacent" pos="a">adjacent</instance>
+        <instance id="d004.s074.t004" lemma="memory" pos="n">memory</instance>
+        <instance id="d004.s074.t005" lemma="region" pos="n">regions</instance>
+        <instance id="d004.s074.t006" lemma="cause" pos="v">cause</instance>
+        <instance id="d004.s074.t007" lemma="failure" pos="n">failure</instance>
+        <instance id="d004.s074.t008" lemma="totally" pos="r">totally</instance>
+        <instance id="d004.s074.t009" lemma="different" pos="a">different</instance>
+        <instance id="d004.s074.t010" lemma="program" pos="n">program</instance>
+        <instance id="d004.s074.t011" lemma="line" pos="n">line</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

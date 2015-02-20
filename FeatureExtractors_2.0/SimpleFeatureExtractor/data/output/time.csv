@@ -1,0 +1,6 @@
+"SENSE"	"A1"	"A2"	"A3"	"A4"	"A5"	"A6"	"A7"	"A8"	"A9"
+"1:28:00::"	"expect"	"for"	"some"	"X"	"JJ"	"X"	"X"	"time"	"NN"
+"1:11:00::"	"be"	"issue"	"every"	"a"	"JJ"	"DT"	"NN"	"time"	"NN"
+"1:28:05::"	"X"	"X"	"but"	"is"	"CC"	"VB"	"VB"	"time"	"NN"
+"1:28:05::"	"people"	"behind"	"him"	"and"	"PRP"	"CC"	"JJ"	"time"	"NN"
+"1:28:05::"	"during"	"all"	"this"	"person"	"DT"	"NNP"	"VB"	"time"	"NN"

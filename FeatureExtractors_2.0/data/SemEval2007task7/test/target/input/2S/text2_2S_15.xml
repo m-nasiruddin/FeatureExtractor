@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s031">
+
+        <instance id="d002.s031.t001" lemma="Program" pos="n">Programs</instance>
+        <instance id="d002.s031.t002" lemma="Section" pos="n">Section</instance>
+        <instance id="d002.s031.t003" lemma="be" pos="v">are</instance>
+        <instance id="d002.s031.t004" lemma="a_little" pos="r">a little</instance>
+        <instance id="d002.s031.t005" lemma="leave" pos="v">leaving</instance>
+        <instance id="d002.s031.t006" lemma="gold" pos="n">gold</instance>
+        <instance id="d002.s031.t007" lemma="street" pos="n">street</instance>
+        <instance id="d002.s031.t008" lemma="then" pos="r">then</instance>
+        <instance id="d002.s031.t009" lemma="express" pos="v">expressing</instance>
+        <instance id="d002.s031.t010" lemma="surprise" pos="n">surprise</instance>
+        <instance id="d002.s031.t011" lemma="thief" pos="n">thieves</instance>
+        <instance id="d002.s031.t012" lemma="walk" pos="v">walk</instance>
+        <instance id="d002.s031.t013" lemma="scoop" pos="v">scoop</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s022">
+
+        <instance id="d005.s022.t001" lemma="seem" pos="v">seemed</instance>
+        <instance id="d005.s022.t002" lemma="painter" pos="n">painters</instance>
+        <instance id="d005.s022.t003" lemma="always" pos="r">always</instance>
+        <instance id="d005.s022.t004" lemma="fail" pos="v">failed</instance>
+        <instance id="d005.s022.t005" lemma="make" pos="v">make</instance>
+        <instance id="d005.s022.t006" lemma="picture" pos="n">pictures</instance>
+        <instance id="d005.s022.t007" lemma="living" pos="a">living</instance>
+        <instance id="d005.s022.t008" lemma="thing" pos="n">things</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

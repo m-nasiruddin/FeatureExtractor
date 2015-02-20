@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s017">
+
+        <instance id="d004.s017.t001" lemma="Ideally" pos="r">Ideally</instance>
+        <instance id="d004.s017.t002" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s017.t003" lemma="language" pos="n">language</instance>
+        <instance id="d004.s017.t004" lemma="best" pos="r">best</instance>
+        <instance id="d004.s017.t005" lemma="suited" pos="a">suited</instance>
+        <instance id="d004.s017.t006" lemma="task" pos="n">task</instance>
+        <instance id="d004.s017.t007" lemma="at_hand" pos="a">at hand</instance>
+        <instance id="d004.s017.t008" lemma="select" pos="v">selected</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

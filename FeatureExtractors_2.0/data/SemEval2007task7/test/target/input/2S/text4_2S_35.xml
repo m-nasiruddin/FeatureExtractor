@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s072">
+
+        <instance id="d004.s072.t001" lemma="be" pos="v">is</instance>
+        <instance id="d004.s072.t002" lemma="very" pos="r">very</instance>
+        <instance id="d004.s072.t003" lemma="important" pos="a">important</instance>
+        <instance id="d004.s072.t004" lemma="task" pos="n">task</instance>
+        <instance id="d004.s072.t005" lemma="programmer" pos="n">programmer</instance>
+        <instance id="d004.s072.t006" lemma="erroneous" pos="a">erroneous</instance>
+        <instance id="d004.s072.t007" lemma="program" pos="n">program</instance>
+        <instance id="d004.s072.t008" lemma="be" pos="v">is</instance>
+        <instance id="d004.s072.t009" lemma="often" pos="r">often</instance>
+        <instance id="d004.s072.t010" lemma="useless" pos="a">useless</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

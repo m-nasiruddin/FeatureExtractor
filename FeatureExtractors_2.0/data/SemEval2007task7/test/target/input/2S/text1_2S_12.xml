@@ -1,0 +1,35 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s029">
+
+        <instance id="d001.s029.t001" lemma="approximately" pos="r">approximately</instance>
+        <instance id="d001.s029.t002" lemma="sponsor" pos="n">sponsors</instance>
+        <instance id="d001.s029.t003" lemma="recent" pos="a">recent</instance>
+        <instance id="d001.s029.t004" lemma="march" pos="n">march</instance>
+        <instance id="d001.s029.t005" lemma="homeless" pos="n">homeless</instance>
+        <instance id="d001.s029.t006" lemma="choose" pos="v">chose</instance>
+        <instance id="d001.s029.t007" lemma="cite" pos="v">cite</instance>
+        <instance id="d001.s029.t008" lemma="group" pos="n">groups</instance>
+        <instance id="d001.s029.t009" lemma="insinuate" pos="v">insinuating</instance>
+        <instance id="d001.s029.t010" lemma="march" pos="n">march</instance>
+        <instance id="d001.s029.t011" lemma="get" pos="v">got</instance>
+        <instance id="d001.s029.t012" lemma="major" pos="a">major</instance>
+        <instance id="d001.s029.t013" lemma="support" pos="n">support</instance>
+        <instance id="d001.s029.t014" lemma="self-serving" pos="a">self-serving</instance>
+        <instance id="d001.s029.t015" lemma="group" pos="n">groups</instance>
+        <instance id="d001.s029.t016" lemma="know" pos="v">know</instance>
+        <instance id="d001.s029.t017" lemma="good" pos="a">good</instance>
+        <instance id="d001.s029.t018" lemma="thing" pos="n">thing</instance>
+        <instance id="d001.s029.t019" lemma="see" pos="v">see</instance>
+        <instance id="d001.s029.t020" lemma="crusade" pos="n">crusade</instance>
+        <instance id="d001.s029.t021" lemma="base" pos="v">based</instance>
+        <instance id="d001.s029.t022" lemma="greed" pos="n">greed</instance>
+        <instance id="d001.s029.t023" lemma="profit" pos="n">profit</instance>
+        <instance id="d001.s029.t024" lemma="motive" pos="n">motive</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s023">
+
+        <instance id="d001.s023.t001" lemma="Once" pos="r">Once</instance>
+        <instance id="d001.s023.t002" lemma="there" pos="r">there</instance>
+        <instance id="d001.s023.t003" lemma="way" pos="n">ways</instance>
+        <instance id="d001.s023.t004" lemma="escape" pos="n">escape</instance>
+        <instance id="d001.s023.t005" lemma="be" pos="v">are</instance>
+        <instance id="d001.s023.t006" lemma="open" pos="a">open</instance>
+        <instance id="d001.s023.t007" lemma="drink" pos="n">drink</instance>
+        <instance id="d001.s023.t008" lemma="drug" pos="n">drugs</instance>
+        <instance id="d001.s023.t009" lemma="insanity" pos="n">insanity</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

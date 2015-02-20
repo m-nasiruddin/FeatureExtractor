@@ -1,0 +1,32 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s043">
+
+        <instance id="d004.s043.t001" lemma="benefit" pos="n">benefits</instance>
+        <instance id="d004.s043.t002" lemma="abstracted" pos="a">abstracted</instance>
+        <instance id="d004.s043.t003" lemma="language" pos="n">languages</instance>
+        <instance id="d004.s043.t004" lemma="be" pos="v">is</instance>
+        <instance id="d004.s043.t005" lemma="allow" pos="v">allow</instance>
+        <instance id="d004.s043.t006" lemma="easy" pos="a">easier</instance>
+        <instance id="d004.s043.t007" lemma="learning" pos="n">learning</instance>
+        <instance id="d004.s043.t008" lemma="curve" pos="n">curve</instance>
+        <instance id="d004.s043.t009" lemma="people" pos="n">people</instance>
+        <instance id="d004.s043.t010" lemma="familiar_with" pos="a">familiar with</instance>
+        <instance id="d004.s043.t011" lemma="older" pos="a">older</instance>
+        <instance id="d004.s043.t012" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s043.t013" lemma="language" pos="n">languages</instance>
+        <instance id="d004.s043.t014" lemma="also" pos="r">also</instance>
+        <instance id="d004.s043.t015" lemma="allow" pos="v">allow</instance>
+        <instance id="d004.s043.t016" lemma="experienced" pos="a">experienced</instance>
+        <instance id="d004.s043.t017" lemma="programmer" pos="n">programmer</instance>
+        <instance id="d004.s043.t018" lemma="develop" pos="v">develop</instance>
+        <instance id="d004.s043.t019" lemma="simple" pos="a">simple</instance>
+        <instance id="d004.s043.t020" lemma="application" pos="n">applications</instance>
+        <instance id="d004.s043.t021" lemma="quickly" pos="r">quickly</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

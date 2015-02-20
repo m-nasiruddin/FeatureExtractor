@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s009">
+
+        <instance id="d001.s009.t001" lemma="Homeless" pos="a">Homeless</instance>
+        <instance id="d001.s009.t002" lemma="people" pos="n">people</instance>
+        <instance id="d001.s009.t003" lemma="lack" pos="v">lack</instance>
+        <instance id="d001.s009.t004" lemma="safety" pos="n">safety</instance>
+        <instance id="d001.s009.t005" lemma="privacy" pos="n">privacy</instance>
+        <instance id="d001.s009.t006" lemma="shelter" pos="n">shelter</instance>
+        <instance id="d001.s009.t007" lemma="also" pos="r">also</instance>
+        <instance id="d001.s009.t008" lemma="lack" pos="v">lack</instance>
+        <instance id="d001.s009.t009" lemma="elementary" pos="a">elementary</instance>
+        <instance id="d001.s009.t010" lemma="necessity" pos="n">necessities</instance>
+        <instance id="d001.s009.t011" lemma="nutrition" pos="n">nutrition</instance>
+        <instance id="d001.s009.t012" lemma="basic" pos="a">basic</instance>
+        <instance id="d001.s009.t013" lemma="health_care" pos="n">health care</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

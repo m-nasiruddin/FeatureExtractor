@@ -1,0 +1,16 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s033">
+
+        <instance id="d002.s033.t001" lemma="take_place" pos="v">take place</instance>
+        <instance id="d002.s033.t002" lemma="government" pos="n">government</instance>
+        <instance id="d002.s033.t003" lemma="program" pos="n">programs</instance>
+        <instance id="d002.s033.t004" lemma="seem" pos="v">seem</instance>
+        <instance id="d002.s033.t005" lemma="corruption" pos="n">corruption</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

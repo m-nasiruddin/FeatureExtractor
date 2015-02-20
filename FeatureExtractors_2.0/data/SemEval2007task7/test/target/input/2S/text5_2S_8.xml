@@ -1,0 +1,14 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s018">
+
+        <instance id="d005.s018.t001" lemma="be" pos="v">be</instance>
+        <instance id="d005.s018.t002" lemma="fit" pos="a">fitter</instance>
+        <instance id="d005.s018.t003" lemma="name" pos="n">name</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

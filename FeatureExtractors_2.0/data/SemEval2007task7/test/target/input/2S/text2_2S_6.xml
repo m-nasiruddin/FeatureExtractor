@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s013">
+
+        <instance id="d002.s013.t001" lemma="company" pos="n">company</instance>
+        <instance id="d002.s013.t002" lemma="right" pos="r">right</instance>
+        <instance id="d002.s013.t003" lemma="campaign" pos="n">campaign</instance>
+        <instance id="d002.s013.t004" lemma="rhetoric" pos="n">rhetoric</instance>
+        <instance id="d002.s013.t005" lemma="rebuild" pos="v">rebuilding</instance>
+        <instance id="d002.s013.t006" lemma="keep" pos="v">kept</instance>
+        <instance id="d002.s013.t007" lemma="use" pos="v">using</instance>
+        <instance id="d002.s013.t008" lemma="minority" pos="n">minority</instance>
+        <instance id="d002.s013.t009" lemma="angle" pos="n">angle</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s058">
+
+        <instance id="d003.s058.t001" lemma="streak" pos="v">streaked</instance>
+        <instance id="d003.s058.t002" lemma="gendarme" pos="n">gendarme</instance>
+        <instance id="d003.s058.t003" lemma="resist" pos="v">resist</instance>
+        <instance id="d003.s058.t004" lemma="rear" pos="v">rearing</instance>
+        <instance id="d003.s058.t005" lemma="soggy" pos="a">soggy</instance>
+        <instance id="d003.s058.t006" lemma="loafer" pos="n">loafers</instance>
+        <instance id="d003.s058.t007" lemma="salute" pos="v">saluting</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

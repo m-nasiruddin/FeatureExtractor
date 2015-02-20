@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s033">
+
+        <instance id="d004.s033.t001" lemma="allow" pos="v">allowed</instance>
+        <instance id="d004.s033.t002" lemma="programmer" pos="n">programmers</instance>
+        <instance id="d004.s033.t003" lemma="specify" pos="v">specify</instance>
+        <instance id="d004.s033.t004" lemma="calculation" pos="n">calculations</instance>
+        <instance id="d004.s033.t005" lemma="enter" pos="v">entering</instance>
+        <instance id="d004.s033.t006" lemma="formula" pos="n">formula</instance>
+        <instance id="d004.s033.t007" lemma="directly" pos="r">directly</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

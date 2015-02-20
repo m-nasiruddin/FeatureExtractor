@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s027">
+
+        <instance id="d004.s027.t001" lemma="Early" pos="a">Early</instance>
+        <instance id="d004.s027.t002" lemma="computer" pos="n">computers</instance>
+        <instance id="d004.s027.t003" lemma="use" pos="v">used</instance>
+        <instance id="d004.s027.t004" lemma="similar" pos="a">similar</instance>
+        <instance id="d004.s027.t005" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s027.t006" lemma="method" pos="n">methods</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

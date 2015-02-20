@@ -1,0 +1,31 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s037">
+
+        <instance id="d002.s037.t001" lemma="know" pos="v">know</instance>
+        <instance id="d002.s037.t002" lemma="government" pos="n">government</instance>
+        <instance id="d002.s037.t003" lemma="redistribute" pos="v">redistributing</instance>
+        <instance id="d002.s037.t004" lemma="wealth" pos="n">wealth</instance>
+        <instance id="d002.s037.t005" lemma="regulate" pos="v">regulating</instance>
+        <instance id="d002.s037.t006" lemma="commerce" pos="n">commerce</instance>
+        <instance id="d002.s037.t007" lemma="maintain" pos="v">maintaining</instance>
+        <instance id="d002.s037.t008" lemma="large" pos="a">large</instance>
+        <instance id="d002.s037.t009" lemma="defense" pos="n">defense</instance>
+        <instance id="d002.s037.t010" lemma="establishment" pos="n">establishment</instance>
+        <instance id="d002.s037.t011" lemma="be" pos="v">is</instance>
+        <instance id="d002.s037.t012" lemma="big" pos="a">big</instance>
+        <instance id="d002.s037.t013" lemma="money" pos="n">money</instance>
+        <instance id="d002.s037.t014" lemma="make" pos="v">made</instance>
+        <instance id="d002.s037.t015" lemma="influence" pos="v">influencing</instance>
+        <instance id="d002.s037.t016" lemma="broker" pos="v">brokering</instance>
+        <instance id="d002.s037.t017" lemma="sell" pos="v">selling</instance>
+        <instance id="d002.s037.t018" lemma="process" pos="n">processes</instance>
+        <instance id="d002.s037.t019" lemma="decision" pos="n">decisions</instance>
+        <instance id="d002.s037.t020" lemma="government" pos="n">government</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

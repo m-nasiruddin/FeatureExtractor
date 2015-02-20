@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s023">
+
+        <instance id="d004.s023.t001" lemma="loom" pos="n">loom</instance>
+        <instance id="d004.s023.t002" lemma="produce" pos="v">produce</instance>
+        <instance id="d004.s023.t003" lemma="entirely" pos="r">entirely</instance>
+        <instance id="d004.s023.t004" lemma="different" pos="a">different</instance>
+        <instance id="d004.s023.t005" lemma="weave" pos="n">weaves</instance>
+        <instance id="d004.s023.t006" lemma="use" pos="v">using</instance>
+        <instance id="d004.s023.t007" lemma="different" pos="a">different</instance>
+        <instance id="d004.s023.t008" lemma="set" pos="n">sets</instance>
+        <instance id="d004.s023.t009" lemma="card" pos="n">cards</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

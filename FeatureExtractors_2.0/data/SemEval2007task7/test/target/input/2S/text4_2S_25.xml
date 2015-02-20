@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s051">
+
+        <instance id="d004.s051.t001" lemma="Programming" pos="n">Programming</instance>
+        <instance id="d004.s051.t002" lemma="be" pos="v">is</instance>
+        <instance id="d004.s051.t003" lemma="clearly" pos="r">clearly</instance>
+        <instance id="d004.s051.t004" lemma="craftsmanship" pos="n">craftsmanship</instance>
+        <instance id="d004.s051.t005" lemma="continue" pos="v">continues</instance>
+        <instance id="d004.s051.t006" lemma="reward" pos="v">reward</instance>
+        <instance id="d004.s051.t007" lemma="practitioner" pos="n">practitioners</instance>
+        <instance id="d004.s051.t008" lemma="country" pos="n">countries</instance>
+        <instance id="d004.s051.t009" lemma="developed" pos="a">developed</instance>
+        <instance id="d004.s051.t010" lemma="country" pos="n">countries</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

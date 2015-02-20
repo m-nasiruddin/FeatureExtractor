@@ -1,0 +1,27 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s026">
+
+        <instance id="d001.s026.t001" lemma="be" pos="v">is</instance>
+        <instance id="d001.s026.t002" lemma="sign" pos="n">sign</instance>
+        <instance id="d001.s026.t003" lemma="bother" pos="v">bothered</instance>
+        <instance id="d001.s026.t004" lemma="consider" pos="v">consider</instance>
+        <instance id="d001.s026.t005" lemma="inverse" pos="n">inverse</instance>
+        <instance id="d001.s026.t006" lemma="logic" pos="n">logic</instance>
+        <instance id="d001.s026.t007" lemma="namely" pos="r">namely</instance>
+        <instance id="d001.s026.t008" lemma="mental" pos="a">mental</instance>
+        <instance id="d001.s026.t009" lemma="illness" pos="n">illness</instance>
+        <instance id="d001.s026.t010" lemma="substance_abuse" pos="n">substance abuse</instance>
+        <instance id="d001.s026.t011" lemma="be" pos="v">be</instance>
+        <instance id="d001.s026.t012" lemma="degree" pos="n">degree</instance>
+        <instance id="d001.s026.t013" lemma="consequence" pos="n">consequences</instance>
+        <instance id="d001.s026.t014" lemma="rather" pos="r">rather</instance>
+        <instance id="d001.s026.t015" lemma="cause" pos="n">causes</instance>
+        <instance id="d001.s026.t016" lemma="homelessness" pos="n">homelessness</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,22 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s020">
+
+        <instance id="d005.s020.t001" lemma="think_of" pos="v">thinks of</instance>
+        <instance id="d005.s020.t002" lemma="unkind" pos="a">unkind</instance>
+        <instance id="d005.s020.t003" lemma="meaning" pos="n">meaning</instance>
+        <instance id="d005.s020.t004" lemma="nickname" pos="n">nickname</instance>
+        <instance id="d005.s020.t005" lemma="now" pos="r">now</instance>
+        <instance id="d005.s020.t006" lemma="honour" pos="v">honoured</instance>
+        <instance id="d005.s020.t007" lemma="one" pos="a">one</instance>
+        <instance id="d005.s020.t008" lemma="great" pos="a">great</instance>
+        <instance id="d005.s020.t009" lemma="name" pos="n">names</instance>
+        <instance id="d005.s020.t010" lemma="history" pos="n">history</instance>
+        <instance id="d005.s020.t011" lemma="Art" pos="n">Art</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

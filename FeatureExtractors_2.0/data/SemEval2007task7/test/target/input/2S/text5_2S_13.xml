@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s028">
+
+        <instance id="d005.s028.t001" lemma="Perhaps" pos="r">Perhaps</instance>
+        <instance id="d005.s028.t002" lemma="live" pos="v">lived</instance>
+        <instance id="d005.s028.t003" lemma="longer" pos="r">longer</instance>
+        <instance id="d005.s028.t004" lemma="fame" pos="n">fame</instance>
+        <instance id="d005.s028.t005" lemma="wealth" pos="n">wealth</instance>
+        <instance id="d005.s028.t006" lemma="come" pos="v">come</instance>
+        <instance id="d005.s028.t007" lemma="die" pos="v">died</instance>
+        <instance id="d005.s028.t008" lemma="be" pos="v">was</instance>
+        <instance id="d005.s028.t009" lemma="still" pos="r">still</instance>
+        <instance id="d005.s028.t010" lemma="young_man" pos="n">young man</instance>
+        <instance id="d005.s028.t011" lemma="only" pos="r">only</instance>
+        <instance id="d005.s028.t012" lemma="realise" pos="v">realised</instance>
+        <instance id="d005.s028.t013" lemma="great" pos="a">great</instance>
+        <instance id="d005.s028.t014" lemma="be" pos="v">was</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

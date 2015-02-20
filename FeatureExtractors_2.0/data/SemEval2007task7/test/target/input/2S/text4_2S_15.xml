@@ -1,0 +1,30 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s031">
+
+        <instance id="d004.s031.t001" lemma="Later" pos="r">Later</instance>
+        <instance id="d004.s031.t002" lemma="assembly_language" pos="n">assembly languages</instance>
+        <instance id="d004.s031.t003" lemma="develop" pos="v">developed</instance>
+        <instance id="d004.s031.t004" lemma="let" pos="v">let</instance>
+        <instance id="d004.s031.t005" lemma="programmer" pos="n">programmer</instance>
+        <instance id="d004.s031.t006" lemma="specify" pos="v">specify</instance>
+        <instance id="d004.s031.t007" lemma="instruction" pos="n">instruction</instance>
+        <instance id="d004.s031.t008" lemma="text" pos="n">text</instance>
+        <instance id="d004.s031.t009" lemma="format" pos="n">format</instance>
+        <instance id="d004.s031.t010" lemma="enter" pos="v">entering</instance>
+        <instance id="d004.s031.t011" lemma="abbreviation" pos="n">abbreviations</instance>
+        <instance id="d004.s031.t012" lemma="operation" pos="n">operation</instance>
+        <instance id="d004.s031.t013" lemma="code" pos="n">code</instance>
+        <instance id="d004.s031.t014" lemma="instead" pos="r">instead</instance>
+        <instance id="d004.s031.t015" lemma="number" pos="n">number</instance>
+        <instance id="d004.s031.t016" lemma="specify" pos="v">specifying</instance>
+        <instance id="d004.s031.t017" lemma="address" pos="n">addresses</instance>
+        <instance id="d004.s031.t018" lemma="symbolic" pos="a">symbolic</instance>
+        <instance id="d004.s031.t019" lemma="form" pos="n">form</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

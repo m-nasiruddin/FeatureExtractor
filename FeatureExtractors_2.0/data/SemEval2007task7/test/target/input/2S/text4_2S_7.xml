@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s015">
+
+        <instance id="d004.s015.t001" lemma="Different" pos="a">Different</instance>
+        <instance id="d004.s015.t002" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s015.t003" lemma="language" pos="n">languages</instance>
+        <instance id="d004.s015.t004" lemma="different" pos="a">different</instance>
+        <instance id="d004.s015.t005" lemma="style" pos="n">styles</instance>
+        <instance id="d004.s015.t006" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s015.t007" lemma="call" pos="v">called</instance>
+        <instance id="d004.s015.t008" lemma="programming" pos="n">programming</instance>
+        <instance id="d004.s015.t009" lemma="paradigm" pos="n">paradigms</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

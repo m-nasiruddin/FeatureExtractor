@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s044">
+
+        <instance id="d003.s044.t001" lemma="yell" pos="v">yelled</instance>
+        <instance id="d003.s044.t002" lemma="back" pos="r">back</instance>
+        <instance id="d003.s044.t003" lemma="leap" pos="v">leaping</instance>
+        <instance id="d003.s044.t004" lemma="atop" pos="r">atop</instance>
+        <instance id="d003.s044.t005" lemma="propane" pos="n">propane</instance>
+        <instance id="d003.s044.t006" lemma="tank" pos="n">tanks</instance>
+        <instance id="d003.s044.t007" lemma="wear" pos="v">wearing</instance>
+        <instance id="d003.s044.t008" lemma="alligator" pos="n">alligator</instance>
+        <instance id="d003.s044.t009" lemma="loafer" pos="n">loafers</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

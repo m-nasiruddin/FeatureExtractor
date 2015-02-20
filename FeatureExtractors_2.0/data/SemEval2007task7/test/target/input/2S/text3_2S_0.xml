@@ -1,0 +1,24 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s001">
+
+        <instance id="d003.s001.t001" lemma="reach" pos="v">reach</instance>
+        <instance id="d003.s001.t002" lemma="back" pos="r">back</instance>
+        <instance id="d003.s001.t003" lemma="French" pos="a">French</instance>
+        <instance id="d003.s001.t004" lemma="monsieur" pos="n">monsieur</instance>
+        <instance id="d003.s001.t005" lemma="clipboard" pos="n">clipboard</instance>
+        <instance id="d003.s001.t006" lemma="lean" pos="v">leaned</instance>
+        <instance id="d003.s001.t007" lemma="shoulder" pos="n">shoulder</instance>
+        <instance id="d003.s001.t008" lemma="coffee" pos="n">coffee</instance>
+        <instance id="d003.s001.t009" lemma="phase" pos="n">phase</instance>
+        <instance id="d003.s001.t010" lemma="dinner" pos="n">dinner</instance>
+        <instance id="d003.s001.t011" lemma="ask" pos="v">asked</instance>
+        <instance id="d003.s001.t012" lemma="want" pos="v">wanted</instance>
+        <instance id="d003.s001.t013" lemma="ride" pos="v">ride</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

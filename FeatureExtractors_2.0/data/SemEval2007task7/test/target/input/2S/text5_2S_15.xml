@@ -1,0 +1,20 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s032">
+
+        <instance id="d005.s032.t001" lemma="thing" pos="n">things</instance>
+        <instance id="d005.s032.t002" lemma="learn" pos="v">learnt</instance>
+        <instance id="d005.s032.t003" lemma="little_by_little" pos="r">little by little</instance>
+        <instance id="d005.s032.t004" lemma="new" pos="a">new</instance>
+        <instance id="d005.s032.t005" lemma="thing" pos="n">thing</instance>
+        <instance id="d005.s032.t006" lemma="know" pos="v">know</instance>
+        <instance id="d005.s032.t007" lemma="be" pos="v">is</instance>
+        <instance id="d005.s032.t008" lemma="step" pos="n">step</instance>
+        <instance id="d005.s032.t009" lemma="onwards" pos="r">onwards</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

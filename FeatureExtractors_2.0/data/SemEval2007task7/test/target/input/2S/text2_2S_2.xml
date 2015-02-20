@@ -1,0 +1,30 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s005">
+
+        <instance id="d002.s005.t001" lemma="Bribe" pos="n">Bribe</instance>
+        <instance id="d002.s005.t002" lemma="bribe" pos="n">bribe</instance>
+        <instance id="d002.s005.t003" lemma="coauthor" pos="n">co-author</instance>
+        <instance id="d002.s005.t004" lemma="lead" pos="v">lead</instance>
+        <instance id="d002.s005.t005" lemma="path" pos="n">path</instance>
+        <instance id="d002.s005.t006" lemma="travel" pos="v">traveled</instance>
+        <instance id="d002.s005.t007" lemma="inception" pos="n">inception</instance>
+        <instance id="d002.s005.t008" lemma="small" pos="a">small</instance>
+        <instance id="d002.s005.t009" lemma="manufacture" pos="v">manufacturing</instance>
+        <instance id="d002.s005.t010" lemma="company" pos="n">company</instance>
+        <instance id="d002.s005.t011" lemma="status" pos="n">status</instance>
+        <instance id="d002.s005.t012" lemma="full-fledged" pos="a">full-fledged</instance>
+        <instance id="d002.s005.t013" lemma="defense" pos="n">defense</instance>
+        <instance id="d002.s005.t014" lemma="contractor" pos="n">contractor</instance>
+        <instance id="d002.s005.t015" lemma="entrust" pos="v">entrusted</instance>
+        <instance id="d002.s005.t016" lemma="task" pos="n">task</instance>
+        <instance id="d002.s005.t017" lemma="produce" pos="v">producing</instance>
+        <instance id="d002.s005.t018" lemma="vital" pos="a">vital</instance>
+        <instance id="d002.s005.t019" lemma="equipment" pos="n">equipment</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

@@ -1,0 +1,25 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s029">
+
+        <instance id="d002.s029.t001" lemma="Absorb" pos="v">Absorbed</instance>
+        <instance id="d002.s029.t002" lemma="dole_out" pos="v">doling out</instance>
+        <instance id="d002.s029.t003" lemma="tidbit" pos="n">tidbits</instance>
+        <instance id="d002.s029.t004" lemma="author" pos="n">authors</instance>
+        <instance id="d002.s029.t005" lemma="gloss_over" pos="v">gloss over</instance>
+        <instance id="d002.s029.t006" lemma="root" pos="n">root</instance>
+        <instance id="d002.s029.t007" lemma="cause" pos="n">causes</instance>
+        <instance id="d002.s029.t008" lemma="namely" pos="r">namely</instance>
+        <instance id="d002.s029.t009" lemma="Section" pos="n">Section</instance>
+        <instance id="d002.s029.t010" lemma="federal" pos="a">federal</instance>
+        <instance id="d002.s029.t011" lemma="program" pos="n">program</instance>
+        <instance id="d002.s029.t012" lemma="auspices" pos="n">auspices</instance>
+        <instance id="d002.s029.t013" lemma="scandal" pos="n">scandal</instance>
+        <instance id="d002.s029.t014" lemma="take_place" pos="v">took place</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

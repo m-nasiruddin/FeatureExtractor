@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s021">
+
+        <instance id="d001.s021.t001" lemma="homeless" pos="n">homeless</instance>
+        <instance id="d001.s021.t002" lemma="obviously" pos="r">obviously</instance>
+        <instance id="d001.s021.t003" lemma="have" pos="v">had</instance>
+        <instance id="d001.s021.t004" lemma="pre-existing" pos="a">pre-existing</instance>
+        <instance id="d001.s021.t005" lemma="mental" pos="a">mental</instance>
+        <instance id="d001.s021.t006" lemma="illness" pos="n">illness</instance>
+        <instance id="d001.s021.t007" lemma="addiction" pos="n">addiction</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

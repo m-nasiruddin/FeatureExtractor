@@ -1,0 +1,23 @@
+<corpus>
+    <text id="d004">
+
+    </sentence>
+    <sentence id="s065">
+
+        <instance id="d004.s065.t001" lemma="However" pos="r">However</instance>
+        <instance id="d004.s065.t002" lemma="PC" pos="n">PC</instance>
+        <instance id="d004.s065.t003" lemma="desktop" pos="n">desktop</instance>
+        <instance id="d004.s065.t004" lemma="application" pos="n">applications</instance>
+        <instance id="d004.s065.t005" lemma="word_processor" pos="n">word processors</instance>
+        <instance id="d004.s065.t006" lemma="image" pos="n">image</instance>
+        <instance id="d004.s065.t007" lemma="manipulation" pos="n">manipulation</instance>
+        <instance id="d004.s065.t008" lemma="program" pos="n">programs</instance>
+        <instance id="d004.s065.t009" lemma="write" pos="v">written</instance>
+        <instance id="d004.s065.t010" lemma="memory" pos="n">memory</instance>
+        <instance id="d004.s065.t011" lemma="efficient" pos="a">efficient</instance>
+        <instance id="d004.s065.t012" lemma="language" pos="n">languages</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

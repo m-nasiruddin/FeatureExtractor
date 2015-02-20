@@ -1,0 +1,22 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s021">
+
+        <instance id="d002.s021.t001" lemma="be" pos="v">were</instance>
+        <instance id="d002.s021.t002" lemma="effective" pos="a">effective</instance>
+        <instance id="d002.s021.t003" lemma="crook" pos="n">crook</instance>
+        <instance id="d002.s021.t004" lemma="find" pos="v">found</instance>
+        <instance id="d002.s021.t005" lemma="fate" pos="n">fate</instance>
+        <instance id="d002.s021.t006" lemma="eventually" pos="r">eventually</instance>
+        <instance id="d002.s021.t007" lemma="befall" pos="v">befell</instance>
+        <instance id="d002.s021.t008" lemma="firm" pos="n">firm</instance>
+        <instance id="d002.s021.t009" lemma="semiliterate" pos="a">semiliterate</instance>
+        <instance id="d002.s021.t010" lemma="minority" pos="n">minority</instance>
+        <instance id="d002.s021.t011" lemma="person" pos="n">person</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

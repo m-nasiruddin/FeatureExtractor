@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d001">
+
+    </sentence>
+    <sentence id="s005">
+
+        <instance id="d001.s005.t001" lemma="cause" pos="n">causes</instance>
+        <instance id="d001.s005.t002" lemma="homelessness" pos="n">homelessness</instance>
+        <instance id="d001.s005.t003" lemma="poorly" pos="r">poorly</instance>
+        <instance id="d001.s005.t004" lemma="understand" pos="v">understood</instance>
+        <instance id="d001.s005.t005" lemma="complex" pos="a">complex</instance>
+        <instance id="d001.s005.t006" lemma="individual" pos="a">individual</instance>
+        <instance id="d001.s005.t007" lemma="case" pos="n">case</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

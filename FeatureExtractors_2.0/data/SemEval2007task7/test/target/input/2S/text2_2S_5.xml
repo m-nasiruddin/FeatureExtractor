@@ -1,0 +1,17 @@
+<corpus>
+    <text id="d002">
+
+    </sentence>
+    <sentence id="s011">
+
+        <instance id="d002.s011.t001" lemma="Instead" pos="r">Instead</instance>
+        <instance id="d002.s011.t002" lemma="become" pos="v">became</instance>
+        <instance id="d002.s011.t003" lemma="paper" pos="n">paper</instance>
+        <instance id="d002.s011.t004" lemma="only" pos="r">only</instance>
+        <instance id="d002.s011.t005" lemma="be" pos="v">were</instance>
+        <instance id="d002.s011.t006" lemma="program" pos="n">program</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

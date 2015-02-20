@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s016">
+
+        <instance id="d005.s016.t001" lemma="yet" pos="r">yet</instance>
+        <instance id="d005.s016.t002" lemma="say" pos="v">said</instance>
+        <instance id="d005.s016.t003" lemma="only" pos="r">only</instance>
+        <instance id="d005.s016.t004" lemma="people" pos="n">people</instance>
+        <instance id="d005.s016.t005" lemma="pay" pos="v">paid</instance>
+        <instance id="d005.s016.t006" lemma="owe" pos="v">owed</instance>
+        <instance id="d005.s016.t007" lemma="have" pos="v">have</instance>
+        <instance id="d005.s016.t008" lemma="gold" pos="n">gold</instance>
+        <instance id="d005.s016.t009" lemma="enough" pos="r">enough</instance>
+        <instance id="d005.s016.t010" lemma="spare" pos="v">spare</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

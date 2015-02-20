@@ -1,0 +1,18 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s003">
+
+        <instance id="d003.s003.t001" lemma="man" pos="n">man</instance>
+        <instance id="d003.s003.t002" lemma="clipboard" pos="n">clipboard</instance>
+        <instance id="d003.s003.t003" lemma="represent" pos="v">represented</instance>
+        <instance id="d003.s003.t004" lemma="halfhearted" pos="a">halfhearted</instance>
+        <instance id="d003.s003.t005" lemma="attempt" pos="n">attempt</instance>
+        <instance id="d003.s003.t006" lemma="introduce" pos="v">introduce</instance>
+        <instance id="d003.s003.t007" lemma="bit" pos="n">bit</instance>
+    </sentence>
+</text>
+
+        </corpus>
+

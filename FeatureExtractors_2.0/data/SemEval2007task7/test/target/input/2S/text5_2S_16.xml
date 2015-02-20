@@ -1,0 +1,19 @@
+<corpus>
+    <text id="d005">
+
+    </sentence>
+    <sentence id="s034">
+
+        <instance id="d005.s034.t001" lemma="alone" pos="r">alone</instance>
+        <instance id="d005.s034.t002" lemma="make" pos="v">made</instance>
+        <instance id="d005.s034.t003" lemma="name" pos="n">name</instance>
+        <instance id="d005.s034.t004" lemma="worthy" pos="a">worthy</instance>
+        <instance id="d005.s034.t005" lemma="place" pos="v">placed</instance>
+        <instance id="d005.s034.t006" lemma="list" pos="n">list</instance>
+        <instance id="d005.s034.t007" lemma="world" pos="n">world</instance>
+        <instance id="d005.s034.t008" lemma="great" pos="a">great</instance>
+        <instance id="d005.s034.t009" lemma="painter" pos="n">painters</instance>
+    </text>
+
+</corpus>
+

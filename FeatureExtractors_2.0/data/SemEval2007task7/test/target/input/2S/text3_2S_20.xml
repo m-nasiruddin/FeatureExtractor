@@ -1,0 +1,21 @@
+<corpus>
+    <text id="d003">
+
+    </sentence>
+    <sentence id="s042">
+
+        <instance id="d003.s042.t001" lemma="hiss" pos="v">hissed</instance>
+        <instance id="d003.s042.t002" lemma="companion" pos="n">companion</instance>
+        <instance id="d003.s042.t003" lemma="be" pos="v">was</instance>
+        <instance id="d003.s042.t004" lemma="only" pos="r">only</instance>
+        <instance id="d003.s042.t005" lemma="English-speaking" pos="a">English-speaking</instance>
+        <instance id="d003.s042.t006" lemma="member" pos="n">member</instance>
+        <instance id="d003.s042.t007" lemma="convention" pos="n">convention</instance>
+        <instance id="d003.s042.t008" lemma="knuckle" pos="n">knuckles</instance>
+        <instance id="d003.s042.t009" lemma="be" pos="v">were</instance>
+        <instance id="d003.s042.t010" lemma="white" pos="a">white</instance>
+    </sentence>
+</text>
+
+        </corpus>
+
